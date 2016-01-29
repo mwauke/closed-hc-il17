@@ -107,23 +107,31 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="56">παντοίων ἀνέμων. καί τε βρύει ἄνθεϊ λευκῷ·</l>
         <l n="57">ἐλθὼν δ' ἐξαπίνης ἄνεμος σὺν λαίλαπι πολλῇ.</l>
         <l n="58">βόθρου τ' ἐξέστρεψε. καὶ ἐξετάνυσσ' ἐπὶ γαίῃ·</l>
-        <l n="59">τοῖον <persName n="urn:cite:hmt:pers.pers690	">Πάνθου</persName> υἱὸν, ἐϋμμελίην <persName n="urn:cite:hmt:pers.pers464">Εὔφορβον</persName></l>
-        <l n="60"><persName n="urn:cite:hmt:pers.pers119">Ἀτρείδης Μενέλαος</persName> ἐπεὶ κτάνε τεύχε' ἐσύλα·</l>
+        <l n="59">τοῖον <persName n="urn:cite:hmt:pers.pers690	">Πάνθου</persName> υἱὸν, ἐϋμμελίην
+            <persName n="urn:cite:hmt:pers.pers464">Εὔφορβον</persName></l>
+        <l n="60"><persName n="urn:cite:hmt:pers.pers119">Ἀτρείδης Μενέλαος</persName> ἐπεὶ κτάνε
+          τεύχε' ἐσύλα·</l>
         <l n="61">ὡς δ' ὅτε τίς τε λέων ὀρεσίτροφος ἀλκὶ πεποιθὼς,</l>
         <l n="62">βοσκομένης ἀγέλης βοῦν ἁρπάσῃ ἥ τις ἀρίστη.</l>
         <l n="63">τῆς δ' ἐξ αὐχέν' ἔαξε λαβὼν κρατεροῖσιν ὀδοῦσι</l>
         <l n="64"> πρῶτον. ἔπειτα δέ θ' αἷμα καὶ ἔγκατα πάντα λαφύσσει</l>
-          <l n="65">δῃῶν· ἀμφὶ δὲ τόν γε κύνες ἄνδρές τε νομῆες</l>
+        <l n="65">δῃῶν· ἀμφὶ δὲ τόν γε κύνες ἄνδρές τε νομῆες</l>
         <l n="66">πολλὰ μάλ’ ϊύζουσιν ἀπόπροθεν οὐδ' ἐθέλουσιν</l>
-          <l n="67">ἀντίον ἐλθέμεναι μάλα γὰρ χλωρὸν δέος αιρεῖ.</l>
-          <l n="68">ὣς τῶν οὔ τινι θυμὸς ἐνι στήθεσσιν ἐτόλμα</l>
-        <l n="69">ἀντίον ἐλθέμεναι <persName n="urn:cite:hmt:pers.pers119">Μενελάου</persName> κυδαλίμοιο·</l>
-        <l n="70">ἔνθά κε ῥεῖα φέροι κλυτὰ τεύχεα <persName n="urn:cite:hmt:pers.pers464">Πανθοίδαο</persName></l>
-        <l n="71"><persName n="urn:cite:hmt:pers.pers119">Ἀτρείδης</persName>, εἰ μή οἱ ἀγάσσατο <persName n="urn:cite:hmt:pers.pers40">Φοῖβος Ἀπόλλων</persName>·</l>
-        <l n="72">ὅς ῥά οἱ <persName n="urn:cite:hmt:pers.pers172">Ἕκτορ'</persName> ἐπῶρσε θοῶ ἀτάλαντον <persName n="urn:cite:hmt:pers.pers83">Ἄρηϊ</persName>·</l>
+        <l n="67">ἀντίον ἐλθέμεναι μάλα γὰρ χλωρὸν δέος αιρεῖ.</l>
+        <l n="68">ὣς τῶν οὔ τινι θυμὸς ἐνι στήθεσσιν ἐτόλμα</l>
+        <l n="69">ἀντίον ἐλθέμεναι <persName n="urn:cite:hmt:pers.pers119">Μενελάου</persName>
+          κυδαλίμοιο·</l>
+        <l n="70">ἔνθά κε ῥεῖα φέροι κλυτὰ τεύχεα <persName n="urn:cite:hmt:pers.pers464"
+            >Πανθοίδαο</persName></l>
+        <l n="71"><persName n="urn:cite:hmt:pers.pers119">Ἀτρείδης</persName>, εἰ μή οἱ ἀγάσσατο
+            <persName n="urn:cite:hmt:pers.pers40">Φοῖβος Ἀπόλλων</persName>·</l>
+        <l n="72">ὅς ῥά οἱ <persName n="urn:cite:hmt:pers.pers172">Ἕκτορ'</persName> ἐπῶρσε θοῶ
+          ἀτάλαντον <persName n="urn:cite:hmt:pers.pers83">Ἄρηϊ</persName>·</l>
         <l n="73">ἀνέρι εἰσάμενος, Κικόνων ἡγήτορι Μέντῃ.</l>
-          <l n="74">καί μιν φωνήσας, ἔπεα πτερόεντα προσηύδα·</l>
-        <l n="75"> <persName n="urn:cite:hmt:pers.pers172">Ἕκτορ</persName>. νῦν σὺ μὲν ὧδε θέεις. ἀκίχητα διώκων</l>
+        <l n="74">καί μιν φωνήσας, ἔπεα πτερόεντα προσηύδα·</l>
+        <l n="75">
+          <persName n="urn:cite:hmt:pers.pers172">Ἕκτορ</persName>. νῦν σὺ μὲν ὧδε θέεις. ἀκίχητα
+          διώκων</l>
         <l n="76">ἵππους <persName n="urn:cite:hmt:per.pers184">Αἰακίδαο</persName> δαί̈φρονος· οἳ
           δ̀' ἀλεγεινοὶ</l>
         <l n="77">ἀνδράσι γε θνητοῖσι δαμήμεναι ἠδ' ὀχέεσθαι</l>
@@ -160,82 +168,116 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="97">ἀλλὰ τίή μοι ταῦτα φίλος διελέξατο θυμός·</l>
         <l n="98">ὁππότ' ἀνὴρ ἐθέλῃ πρὸς δαίμονα φωτὶ μάχεσθαι</l>
         <l n="99">ὅν κε θεὸς τιμᾷ. ταχά οἱ, μέγα πῆμα κυλίσθη·</l>
-        <l n="100">τώ μ' οὔ τις <rs type="ethnic" n="urn:cite:hmt:pers.pers66">Δαναῶν</rs> νεμεσήσεται, ὅς κεν ί̈δηται</l>
-        <l n="101"><persName n="urn:cite:hmt:pers.pers172">Ἕκτορι</persName> χωρήσαντ'. ἐπεὶ ἐκ θεόφιν πολεμίζει·</l>
-        <l n="102">εἰ δέ που <persName n="urn:cite:hmt:pers.pers127">Αἴαντός</persName> γε, βοὴν ἀγαθοῖο πυθοίμην.</l>
+        <l n="100">τώ μ' οὔ τις <rs type="ethnic" n="urn:cite:hmt:pers.pers66">Δαναῶν</rs>
+          νεμεσήσεται, ὅς κεν ί̈δηται</l>
+        <l n="101"><persName n="urn:cite:hmt:pers.pers172">Ἕκτορι</persName> χωρήσαντ'. ἐπεὶ ἐκ
+          θεόφιν πολεμίζει·</l>
+        <l n="102">εἰ δέ που <persName n="urn:cite:hmt:pers.pers127">Αἴαντός</persName> γε, βοὴν
+          ἀγαθοῖο πυθοίμην.</l>
         <l n="103"> ἄμφω κ' αῦτις ϊόντες ἐπιμνησαίμεθα χάρμης·</l>
         <l n="104"> καὶ πρὸς δαίμονά περ, εἴ πως ἐρυσαίμεθα νεκρὸν.</l>
-        <l n="105"><persName n="urn:cite:hmt:pers.pers1">Πηλείδῃ Ἀχιλῆϊ</persName>. κακῶν δέ κε φέρτατον εἴη·</l>
+        <l n="105"><persName n="urn:cite:hmt:pers.pers1">Πηλείδῃ Ἀχιλῆϊ</persName>. κακῶν δέ κε
+          φέρτατον εἴη·</l>
         <l n="106">ἕως ὃ ταῦθ' ὥρμαινε κατα φρένα καὶ κατα θυμὸν.</l>
-        <l n="107">τόφρα δ' ἐπὶ Τρώων στίχες ἤλυθον· ἦρχε δ' ὰρ' <persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName>·</l>
+        <l n="107">τόφρα δ' ἐπὶ Τρώων στίχες ἤλυθον· ἦρχε δ' ὰρ' <persName
+            n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName>·</l>
         <l n="108">αὐτὰρ ὅ γ' ἐξοπίσω ἀνεχάζετο· λεῖπε δὲ νεκρὸν,</l>
         <l n="109">ἐντροπαλιζόμενος. ὥς τε λὶς ἠϋγένειος·</l>
         <l n="110">ὅν ρα κύνες τε καὶ ἄνδρες ἀπὸ σταθμοῖο δίωνται</l>
         <l n="111">ἔγχεσι καὶ φωνῇ, τοῦ δ' ἐν φρεσὶν ἄλκιμον ῆτορ</l>
         <l n="112">παχνοῦται. ἀἕκων δέ τ' έβη ἀπο μεσσαύλοιο·</l>
-        <l n="113">ὡς ἀπο <persName n="urn:cite:hmt:pers.pers158">Πατρόκλοιο</persName> κίε ξανθὸς <persName n="urn:cite:hmt:pers.pers119">Μενέλαος</persName>. </l>
+        <l n="113">ὡς ἀπο <persName n="urn:cite:hmt:pers.pers158">Πατρόκλοιο</persName> κίε ξανθὸς
+            <persName n="urn:cite:hmt:pers.pers119">Μενέλαος</persName>. </l>
         <l n="114">στῆ δὲ μετὰ στρεφθεὶς ἐπεὶ ἵ̈κετο ἔθνος ἑταίρων·</l>
-        <l n="115">παπταίνων <persName n="urn:cite:hmt:pers.pers127">Αἴαντα</persName> μέγαν. Τελαμώνιον υἱόν·</l>
+        <l n="115">παπταίνων <persName n="urn:cite:hmt:pers.pers127">Αἴαντα</persName> μέγαν.
+          Τελαμώνιον υἱόν·</l>
         <l n="116">τὸν δὲ μάλ' αῖψ' ἐνόησε μάχης ἐπ αριστερὰ πάσης</l>
         <l n="117">θαρσύνονθ' ἑτάρους, καὶ ἐποτρύνοντα μάχεσθαι.</l>
-        <l n="118">θεσπέσιον γάρ σφιν φόβον ἔμβαλε <persName n="urn:cite:hmt:pers.pers40">Φοῖβος Ἀπόλλων</persName>·</l>
+        <l n="118">θεσπέσιον γάρ σφιν φόβον ἔμβαλε <persName n="urn:cite:hmt:pers.pers40">Φοῖβος
+            Ἀπόλλων</persName>·</l>
         <l n="119">βῆ δὲ θέειν, εῖθαρ δὲ παριστάμενος ἔπος ηύδᾱ·</l>
-        <l n="120"><persName n="urn:cite:hmt:pers.pers127">Αἶαν</persName>· δεῦρο πέπον περὶ <persName n="urn:cite:hmt:pers.pers158">Πατρόκλοιο</persName> θανόντος</l>
-        <l n="121">σπεύσομεν· αἴ κε, νέκυν περ <persName n="urn:cite:hmt:pers.pers1">Ἀχιλλῆϊ</persName> προφέρωμεν</l>
-        <l n="122">γυμνὸν· ἀτὰρ τά γε τεύχε' ἔχει κορυθαίολος <persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName>·</l>
-        <l n="123">ὣς ἔφατ'. <persName n="urn:cite:hmt:pers.pers127">Αἴαντι</persName> δὲ δαί̈φρονι θυμὸν ὄρινε·</l>
-        <l n="124">βῆ δὲ δια προμάχων· ἅμα δὲ ξανθὸς <persName n="urn:cite:hmt:pers.pers119">Μενέλαος</persName>·</l>
-        <l n="125"><persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> μὲν <persName n="urn:cite:hmt:pers.pers">Πάτροκλον</persName>, ἐπεὶ κλυτὰ τεύχε' ἀπηύρα.</l>
+        <l n="120"><persName n="urn:cite:hmt:pers.pers127">Αἶαν</persName>· δεῦρο πέπον περὶ
+            <persName n="urn:cite:hmt:pers.pers158">Πατρόκλοιο</persName> θανόντος</l>
+        <l n="121">σπεύσομεν· αἴ κε, νέκυν περ <persName n="urn:cite:hmt:pers.pers1"
+            >Ἀχιλλῆϊ</persName> προφέρωμεν</l>
+        <l n="122">γυμνὸν· ἀτὰρ τά γε τεύχε' ἔχει κορυθαίολος <persName
+            n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName>·</l>
+        <l n="123">ὣς ἔφατ'. <persName n="urn:cite:hmt:pers.pers127">Αἴαντι</persName> δὲ δαί̈φρονι
+          θυμὸν ὄρινε·</l>
+        <l n="124">βῆ δὲ δια προμάχων· ἅμα δὲ ξανθὸς <persName n="urn:cite:hmt:pers.pers119"
+            >Μενέλαος</persName>·</l>
+        <l n="125"><persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> μὲν <persName
+            n="urn:cite:hmt:pers.pers">Πάτροκλον</persName>, ἐπεὶ κλυτὰ τεύχε' ἀπηύρα.</l>
         <l n="126">ἕλχ' ἵ̈ν' ἀπ' ὤμοιϊν κεφαλὴν τάμοι, ὀξέϊ χαλκῷ.</l>
         <l n="127">τὸν δὲ νέκυν Τρωῇσιν ἐρυσσάμενος κυσὶ δοίη.</l>
-        <l n="128"><persName n="urn:cite:hmt:pers.pers127">Αἴας</persName> δ' ἐγγύθεν ἦλθε, φέρων σάκος ἠύ̈τε πύργον·</l>
-        <l n="129"><persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> δ' ὰψ ἐς ὅμιλον ἰ̈ὼν ἀνεχάζεθ' ἑταίρων.</l>
+        <l n="128"><persName n="urn:cite:hmt:pers.pers127">Αἴας</persName> δ' ἐγγύθεν ἦλθε, φέρων
+          σάκος ἠύ̈τε πύργον·</l>
+        <l n="129"><persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> δ' ὰψ ἐς ὅμιλον ἰ̈ὼν
+          ἀνεχάζεθ' ἑταίρων.</l>
         <l n="130">ἐς δίφρον δ' ἀνόρουσε· δίδου δ' ὅ γε τεύχεα καλὰ</l>
-        <l n="131"><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρωσὶ</rs> φέρειν προτὶ ἄστυ μέγα κλέος ἔμμεναι αὐτῷ·</l>
-        <l n="132"><persName n="urn:cite:hmt:pers.pers127">Αἴας</persName> δ' ἀμφὶ <persName n="urn:cite:hmt:pers.pers158">Μενοιτιάδῃ</persName> σάκος εὐρὺ καλύψας</l>
+        <l n="131"><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρωσὶ</rs> φέρειν προτὶ ἄστυ μέγα
+          κλέος ἔμμεναι αὐτῷ·</l>
+        <l n="132"><persName n="urn:cite:hmt:pers.pers127">Αἴας</persName> δ' ἀμφὶ <persName
+            n="urn:cite:hmt:pers.pers158">Μενοιτιάδῃ</persName> σάκος εὐρὺ καλύψας</l>
         <l n="133">ἑστήκει, ὥς τίς τε λέων περὶ οἷσι τέκεσσιν·</l>
         <l n="134">ᾧ ῥά τε νήπι' ἄγοντι συναντήσωνται ἐν ὕλῃ</l>
         <l n="135">ἄνδρες ἐπακτῆρες. ὁ δέ τε, σθένεϊ βλεμεαίνει·</l>
         <l n="136">πᾶν δέ τ' ἐπισκύνιον κάτω ἕλκεται. ὄσσε καλύπτων·</l>
-        <l n="137">ὡς <persName n="urn:cite:hmt:pers.pers127">Αἴας</persName> περὶ <persName n="urn:cite:hmt:pers.pers158">Πατρόκλῳ</persName> ἥρωϊ βεβήκει·</l>
-        <l n="138"><persName n="urn:cite:hmt:pers.pers119">Ἀτρείδης</persName> δ' ἑτέρωθεν ἀρηΐφιλος <persName n="urn:cite:hmt:pers.pers119">Μενέλαος</persName></l>
+        <l n="137">ὡς <persName n="urn:cite:hmt:pers.pers127">Αἴας</persName> περὶ <persName
+            n="urn:cite:hmt:pers.pers158">Πατρόκλῳ</persName> ἥρωϊ βεβήκει·</l>
+        <l n="138"><persName n="urn:cite:hmt:pers.pers119">Ἀτρείδης</persName> δ' ἑτέρωθεν ἀρηΐφιλος
+            <persName n="urn:cite:hmt:pers.pers119">Μενέλαος</persName></l>
         <l n="139">ἑστήκει. μέγα πένθος ἐνι στήθεσσιν ἀέξων·</l>
-        <l n="140"><persName n="urn:cite:hmt:pers.pers463">Γλαῦκος</persName> δ' Ἱ̈ππολόχοιο πάϊς <rs type="ethnic" n="urn:cite:hmt:place.place75">Λυκίων</rs> ἀγὸς ἀνδρῶν·</l>
-        <l n="141"><persName n="urn:cite:hmt:pers.pers172">Ἕκτορ'</persName> ὑπόδρα ἰ̈δὼν χαλεπῷ ἠνίπαπε μύθῳ·</l>
-        <l n="142"><persName n="urn:cite:hmt:pers.pers172">Ἕκτορ</persName>. εἶδος ἄριστε. μάχης ἄρα πολλὸν ἐδεύεο·</l>
+        <l n="140"><persName n="urn:cite:hmt:pers.pers463">Γλαῦκος</persName> δ' Ἱ̈ππολόχοιο πάϊς
+            <rs type="ethnic" n="urn:cite:hmt:place.place75">Λυκίων</rs> ἀγὸς ἀνδρῶν·</l>
+        <l n="141"><persName n="urn:cite:hmt:pers.pers172">Ἕκτορ'</persName> ὑπόδρα ἰ̈δὼν χαλεπῷ
+          ἠνίπαπε μύθῳ·</l>
+        <l n="142"><persName n="urn:cite:hmt:pers.pers172">Ἕκτορ</persName>. εἶδος ἄριστε. μάχης ἄρα
+          πολλὸν ἐδεύεο·</l>
         <l n="143">ῆ, σ' αύτως κλέος ἐσθλὸν ἔχει. φύξηλιν ἐόντα·</l>
         <l n="144">φράζεο νῦν. ὅππως κε πόλιν καὶ ἄστυ σαώσεις</l>
-        <l n="145">οἶος σὺν λαοῖσι τοὶ <placeName n="urn:cite:hmt:place.place6">Ἰ̈λίῳ</placeName> ἐγγεγάασιν·</l>
-        <l n="146">οὐ γάρ τις <rs type="ethnic" n="urn:cite:hmt:place.place75">Λυκίων</rs> γε μαχησόμενος <rs type="ethnic" n="urn:cite:hmt:pers.pers66">Δαναοῖσιν</rs></l>
+        <l n="145">οἶος σὺν λαοῖσι τοὶ <placeName n="urn:cite:hmt:place.place6">Ἰ̈λίῳ</placeName>
+          ἐγγεγάασιν·</l>
+        <l n="146">οὐ γάρ τις <rs type="ethnic" n="urn:cite:hmt:place.place75">Λυκίων</rs> γε
+          μαχησόμενος <rs type="ethnic" n="urn:cite:hmt:pers.pers66">Δαναοῖσιν</rs></l>
         <l n="147">εῖσι περὶ πτόλιος. ἐπεὶ οὐκ ἄρα τις χάρις ῆεν</l>
         <l n="148">μάρνασθαι δηΐοισιν μετ' ἀνδράσι, νωλεμὲς αἰεί·</l>
         <l n="149">πῶς κε σὺ χείρονα φῶτα σαώσειας μεθ' όμιλον.</l>
-        <l n="150">σχέτλι'. ἐπεὶ <persName n="urn:cite:hmt:pers.pers195">Σαρπηδόν'</persName>. ἅμα ξεῖνον καὶ ἑταῖρον</l>
-        <l n="151">κάλλιπες Ἀργείοισιν ἕλωρ καὶ κύρμα γενέσθαι,</l>
-        <l n="152">ὅς τοι πόλλ' ὄφελος γένετο πτόλεί̈ τε καὶ αὐτῷ</l>
-        <l n="153">ζωὸς ἐών: νῦν δ' οὔ οἱ ἀλαλκέμεναι κύνας ἔτλης.</l>
-        <l n="154"> τὼ νῦν εἴ τις ἐμοὶ Λυκίων ἐπιπείσεται ἀνδρῶν</l>
-        <l n="155">οἴκαδ' ἴμεν, Τροίῃ δὲ πεφήσεται αἰπὺς ὄλεθρος.</l>
-        <l n="156">εἰ γὰρ νῦν Τρώεσσι μένος πολυθαρσὲς ἐνείη</l>
-        <l n="157">ἄτρομον, οἷόν τ' ἄνδρας ἐσέρχεται οἳ περὶ πάτρης</l>
-        <l n="158">ἀνδράσι δυσμενέεσσι πόνον καὶ δῆριν ἔθεντο,</l>
-        <l n="159">αἶψά κε Πάτροκλον ἐρυσαίμεθα Ἴλιον εἴσω.</l>
-        <l n="160">εἰ δ' οὗτος προτὶ ἄστυ μέγα Πριάμοιο ἄνακτος</l>
-        <l n="161">ἔλθοι τεθνηὼς καί μιν ἐρυσαίμεθα χάρμης,</l>
-        <l n="162">αἶψά κεν Ἀργεῖοι Σαρπηδόνος ἔντεα καλὰ</l>
-        <l n="163">λύσειαν, καί κ' αὐτὸν ἀγοίμεθα Ἴλιον εἴσω:</l>
+        <l n="150">σχέτλι'. ἐπεὶ <persName n="urn:cite:hmt:pers.pers195">Σαρπηδόν'</persName>. ἅμα
+          ξεῖνον καὶ ἑταῖρον</l>
+        <l n="151">κάλλιπες <rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργείοισιν</rs> ἕλωρ
+          καὶ κῦρμα γενέσθαι,</l>
+        <l n="152">ὅς τοι πολλ`' ὄφελος γένετο πτόλεί̈ τε καὶ αὐτῷ</l>
+        <l n="153">ζωὸς ἐών· νῦν δ' οὔ, οἱ, ἀλαλκέμεναι κύνας ἔτλης·</l>
+        <l n="154"> τῶ νῦν. εἴ τις ἐμοὶ Λυκίων ἐπιπείσεται ἀνδρῶν</l>
+        <l n="155">οἴκαδ' ΐμεν, <placeName n="urn:cite:hmt:place.place6">Τροίῃ</placeName> δὲ
+          πεφήσεται αἰπὺς όλεθρος·</l>
+        <l n="156">εἰ γὰρ νῦν <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώεσσι</rs> μένος
+          πολυθαρσὲς ἐνείη.</l>
+        <l n="157">ἄτρομον. οἷόν τ' ἄνδρας ἐσἔρχεται. οἳ περι πάτρης</l>
+        <l n="158">ἀνδράσι δυσμενέεσσι πόνον καὶ δῆριν ἔθεντο.</l>
+        <l n="159">αῖψά κε Πάτροκλον ἐρυσαίμεθα. ΄<placeName n="urn:cite:hmt:place.place6"
+            >Ϊλιον</placeName> εἴσω·</l>
+        <l n="160">εἰ δ' οὗτος προτὶ ἄστυ μέγα <persName n="urn:cite:hmt:pers.pers145"
+            >Πριάμοιο</persName> ἄνακτος</l>
+        <l n="161">ἔλθοι τεθνηὼς. καί μιν ἐρυσαίμεθα χάρμης.</l>
+        <l n="162">αῖψά κεν <rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργεῖοι</rs>,
+            <persName n="urn:cite:hmt:pers.pers95">Σαρπηδόνος</persName> ἔντεα καλὰ</l>
+        <l n="163">λύσειαν· καί κ' αὐτὸν ἀγοίμεθα <placeName n="urn:cite:hmt:place.place6"
+            >Ἴ̈λιον</placeName> εἴσω·</l>
         <l n="164">τοίου γὰρ θεράπων πέφατ' ἀνέρος, ὃς μέγ' ἄριστος</l>
-        <l n="165">Ἀργείων παρὰ νηυσὶ καὶ ἀγχέμαχοι θεράποντες.</l>
-        <l n="166">ἀλλὰ σύ γ' Αἴαντος μεγαλήτορος οὐκ ἐτάλασσας</l>
-        <l n="167">στήμεναι ἄντα κατ' ὄσσε ἰδὼν δηί̈ων ἐν ἀϋτῇ,</l>
-        <l n="168">οὐδ' ἰθὺς μαχέσασθαι, ἐπεὶ σέο φέρτερός ἐστι. </l>
-        <l n="169">τὸν δ' ἄρ' ὑπόδρα ἰδὼν προσέφη κορυθαίολος Ἕκτωρ:</l>
-        <l n="170">Γλαῦκε τί ἢ δὲ σὺ τοῖος ἐὼν ὑπέροπλον ἔειπες;</l>
-        <l n="171">ὢ πόποι ἦ τ' ἐφάμην σὲ περὶ φρένας ἔμμεναι ἄλλων</l>
-        <l n="172">τῶν ὅσσοι Λυκίην ἐριβώλακα ναιετάουσι:</l>
-        <l n="173">νῦν δέ σευ ὠνοσάμην πάγχυ φρένας οἷον ἔειπες,</l>
-        <l n="174">ὅς τέ με φῂς Αἴαντα πελώριον οὐχ ὑπομεῖναι.</l>
-        <l n="175"> οὔ τοι ἐγὼν ἔρριγα μάχην οὐδὲ κτύπον ἵππων:</l>
+        <l n="165"><rs type="ethnic" n="urn:cite:hmt:place.place114">Ἀργείων</rs> παρὰ νηυσὶ καὶ
+          ἀγχέμαχοι θεράποντες·</l>
+        <l n="166">ἀλλὰ σύ γ' <persName n="urn:cite:hmt:pers.pes127">Αἴαντος</persName> μεγαλήτορος οὐκ ἐτάλασσας</l>
+        <l n="167">στήμεναι ἄντα. κατ' ὄσσε ἰ̈̈δὼν δηί̈ων ἐν ἀϋτῇ.</l>
+        <l n="168">οὐδ'ἰ̈θὺς μαχέσασθαι. ἐπεὶ σέο φέρτερός ἐστι· </l>
+        <l n="169">τὸν δ' ὰρ' ὑπόδρα ἰ̈δὼν προσέφη κορυθαιόλος <persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName>·</l>
+        <l n="170"><persName n="urn:cite:hmt:pers.pers463">Γλαῦκε</persName>. τίη δε σὺ τοῖος ἐὼν ὑπέροπλον ἔειπες.</l>
+        <l n="171">ὢ πόποι ῆ τ' ἐφάμην σε περὶ φρένας ἔμμεναι ἄλλων</l>
+        <l n="172">τῶν· ὅσσοι <placeName n="urn:cite:hmt:place.place75">Λυκίην</placeName> ἐριβώλακα ναιετάουσι.</l>
+        <l n="173">νῦν δέ σευ, ὠνοσάμην πάγχυ φρένας. οἷον ἔειπες.</l>
+        <l n="174">ὅς τέ με, φῂς <persName n="urn:cite:hmt:pers.pes127">Αἴαντα</persName> πελώριον οὐχ ὑπομεῖναι·</l>
+        <l n="175"> οὔ τοι ἐγὼν, ἔρρῑγα μάχην. οὐδὲ κτύπον ἵππων</l>
         <l n="176">ἀλλ' αἰεί τε Διὸς κρείσσων νόος αἰγιόχοιο,</l>
         <l n="177">ὅς τε καὶ ἄλκιμον ἄνδρα φοβεῖ καὶ ἀφείλετο νίκην</l>
         <l n="178">ῥηϊδίως, ὁτὲ δ' αὐτὸς ἐποτρύνει μαχέσασθαι.</l>
