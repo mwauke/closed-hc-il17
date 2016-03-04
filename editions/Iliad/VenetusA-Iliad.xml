@@ -18,7 +18,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Edited directly from photography of the manuscript</p>
+        <p>Edited directly from photography of the manuscript</p> 
       </sourceDesc>
     </fileDesc>
   </teiHeader>
@@ -921,7 +921,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
           μετὰ ἔθνος ἑταίρων·</l>
         <l n="582"><persName n="urn:cite:hmt:pers.pers172">Ἕκτορα</persName> δ' ἐγγύθεν ἱ̈στάμενος
           ὤτρυνεν <persName n="urn:cite:hmt:pers.pers40">Ἀπόλλων</persName>.</l>
-        <l n="583"><persName>Φαίνοπι Ἀσιάδῃ</persName> ἐναλίγκιος· ὅ, ς οἱ, ἁπάντων</l>
+        <l n="583"><persName n="urn:cite:hmt:pers.pers1071">Φαίνοπι Ἀσιάδῃ</persName> ἐναλίγκιος· ὅ, ς οἱ, ἁπάντων</l>
         <l n="584">ξείνων φίλτατος έσκεν, <placeName n="urn:cite:hmt:place.place99"
             >Ἀβυδόθι</placeName> οἰκίᾳ ναίων·</l>
         <l n="586"><persName n="urn:cite:hmt:pers.pers172">Ἑ̋κτορ</persName>, τίς κέ σ' ἔτ' ἄλλος
@@ -966,7 +966,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="609">δίφρῳ ἐφεσταότος· τοῦ μέν ῥ ἀπὸ τυτθὸν ἅμαρτεν·</l>
         <l n="610">αὐτὰρ ὃ <persName n="urn:cite:hmt:pers.pers212">Μηριόνᾱο</persName>, ὀπάονά θ'
           ἡνίοχόν τε</l>
-        <l n="611"><persName n="urn:cite:hmt:pers.pers871">Κοίρανον</persName>. ὅς ῥ' ἐκ <placeName
+        <l n="611"><persName n="urn:cite:hmt:pers.pers1070">Κοίρανον</persName>. ὅς ῥ' ἐκ <placeName
             n="urn:cite:hmt:place.place362">Λύκτου</placeName> ἐϋκτιμένης ἕπετ' αὐτῷ.</l>
         <l n="612">πεζὸς γὰρ τὰ πρῶτα λιπὼν νέας ἀμφιελίσσας</l>
         <l n="613">ἤλυθε· καί κε <rs type="ethnic" n="urn:cite:hmt:place.place6">Τρωσὶ</rs> μέγα
@@ -1099,7 +1099,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         <l n="697">ἀλλ' οὐδ' ὧς <persName n="urn:cite:hmt:pers.pers119">Μενελά̄ου</persName>
           ἐφημοσύνης ἀμέλησε·</l>
         <l n="698">βῆ δὲ θέειν. τὰ δὲ τεύχε' ἀμύμονι δῶκεν ἑταίρῳ</l>
-        <l n="699"><persName n="urn:cite:hmt:pers.pers">Λᾱοδόκῳ</persName>. ὅς οἱ σχεδὸν ἔστρεφε
+        <l n="699"><persName n="urn:cite:hmt:pers.pers1069">Λᾱοδόκῳ</persName>. ὅς οἱ σχεδὸν ἔστρεφε
           μώνυχας ἵ̈ππους·</l>
         <l n="700">τὸν μὲν δακρυχέοντα πόδες φέρον ἐκ πολέμοιο.</l>
         <l n="701"><persName n="urn:cite:hmt:pers.pers1">Πηλείδῃ Ἀχιλῆϊ</persName> κακὸν ἔπος
