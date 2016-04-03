@@ -2,7 +2,7 @@ project.ext {
 
   textInventory="/vagrant/hc-il17/editions/inventory.xml"
   textArchive="/vagrant/hc-il17/editions"
-
+  invSchema="/vagrant/hc-il17/editions/schemas/TextInventory.rng"
     // Lists of index files to use in verification:
     folioToImage = "/vagrant/hc-il17/indices/venA-folioToImage.csv"
 
@@ -10,5 +10,5 @@ project.ext {
     textToFolio = "/vagrant/hc-il17/indices/venA-textToFolio-Iliad.csv"
 
     scholiaInventories = "/vagrant/hc-il17/collections/venA-exterior.csv,/vagrant/hc-il17/collections/venA-intermarginal.csv,/vagrant/hc-il17/collections/venA-interior.csv,/vagrant/hc-il17/collections/venA-mainScholia.csv,/vagrant/hc-il17/collections/venA-interlinear.csv"
-    
+
 }
