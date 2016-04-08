@@ -6,7 +6,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <!DOCTYPE TEI PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" >
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -33,11 +33,17 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.2</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p><choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice> τοῦ <q><choice>
+                                        <abbr>υπ</abbr>
+                                        <expan>ὑπὸ</expan>
+                                    </choice> Τρώων δαμασθείς</q> ⁑ </p>
                         </div>
                     </div>
-                    <!-- 
-                        <div n="2" type="scholion">
+
+                    <div n="2" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -45,10 +51,15 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.8</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p><q>τοῦ</q> <persName n="urn:cite:hmt:pers.pers119"><choice>
+                                        <abbr>Μενε</abbr>
+                                        <expan>Μενελάου</expan>
+                                    </choice></persName> ἡ <q>τοῦ</q> <persName
+                                    n="urn:cite:hmt:pers.pers158">Πατρόκλου</persName> ὃ καὶ
+                                πιθανώτερον. ⁑</p>
                         </div>
                     </div>
-                     <div n="3" type="scholion">
+                    <div n="3" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -56,10 +67,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.19</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>ὑπερβίως αὐχεῖν ο <choice><abbr>εστ</abbr><expan>ἐστιν</expan></choice> <choice><abbr>υπ</abbr><expan>ὑπὲρ</expan></choice> τὴν δύναμιν·</p>
                         </div>
                     </div>
-                     <div n="4" type="scholion">
+                    <!-- <div n="4" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
