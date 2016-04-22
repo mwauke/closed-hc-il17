@@ -28,13 +28,50 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <body>
                     <div n="1" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>οὐδ' ἔλαθ' <persName n="urn:cite:hmt:pers.pers23">Ἀτρέος</persName> υἱὸν·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.1</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p><persName n="urn:cite:hmt:pers.pers158">Πατρόκλου</persName> πεσόντος
+                                πρὼτος αἰσθεται <persName n="urn:cite:hmt:pers.pers119"
+                                    >Μενέλαος</persName> φησὶ γὰρ <q>ὃς κεῖται ἐμῆς ἔνεκ' ἐνθάδε
+                                        τιμῆς</q>. καὶ ὅτι ὁμότροποι ἄμφω γὰρ ἥπιοι οἱδε <persName
+                                            n="urn:cite:hmt:pers.pers119">Μενέλαος</persName>, οὐ μόνον προς
+                                τοὺς ἀπχόμενους ήπιος ἦν, ἀλλ’ ήδη καὶ προς τὸυς πολεμίους ὥστε
+                                <persName n="urn:cite:hmt:pers.pers45">Ἄδραστον</persName>
+                                ζωγρήσας σὼζειν ἐβούλετο ἢ ὅτι καὶ
+                                <abbr>περ</abbr><expan>περι</expan>
+                                <abbr>παντ</abbr><expan>παντα</expan> σπουδαῖος ὁρᾶται. δεόντος τον
+                                <persName n="urn:cite:hmt:pers.pers119">Μενέλαον</persName> εντῳ
+                                νῦν παρεισήγαγε καιρῷ, βοηθοῦντα καὶ ἀγωνιζόμενον. μάλιστα μεν δ<gap
+                                    unit="letters" extent="1"/> α τὸ τετρῶσθαι τοὺς αριστεῖς. ἔπει
+                                ταδὲ καὶ δί καιον ἡγεῖτο τὸυς δι αυτων τελευτήσαντας μὴ
+                                <abbr>κατ</abbr><expan>κατα</expan> λιπεῖν, ἀλλα βοηθεῖν παντὶ
+                                σθένει ⁑</p>
+                        </div>
+                    </div>
+                    <div n="2" type="scholion">
+                        <div type="lemma">
+                            <p><rs type="ethnic" n="urn:cite:hmt:place.place6">Τρώεσσι</rs> δαμεὶς.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.2</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀμφίβολον πότερον Τρώεσσι συνήθως κατ' ἐναλλαγὴν
+                                πτώσεως παρείληπται. ἀντι τοῦ Τρώων ὡς „Αἴαντι δὲ
+                                μάλιστα“ (Ξ 459) ἀντὶ τοῦ Αἴαντος· καὶ ἔστιν ‘δαμεῖς ἐν
+                                Τρώων δηϊοτῆ́τι ἐν τῇ τῶν Τρώων μάχῃ ὡς το
+                                „ἢν μὴ καὶ σὺ θάνῃς Ἀχιλῆϊ δαμασθεὶς“ (Χ 55), οὕτως
+                                Τρώεσσι δαμασθεὶς ἀντὶ τοῦ ὑπὸ Τρώων· δαμεὶς δὲ
+                                δαμασθεὶς ἀντι τοῦ ὑπὸ Τρώων, δαμείς δὲ δαμασθείς η αυτὸ δὲ τοῦτο διχῶς ἤτοι ἐπιπεσόντων
+                                πάντων τῶν Τρώων δαμεὶς ἢ ὑφ' Ἑκτορος ὥστε τὸ
+                                ἑνικὸν πληθυντικῶς ἐξενηνέχθαι καὶ Τρῶας κατα τὸ
+                                <w>πληθ<unclear>υν</unclear>τικὸν</w> ἔφη <w>τό<add place="supralinear">ν</add></w> τε Ἔκτορα καὶ τὸν Εὔφορβον
+                                ὑφ οῦ μὲν γὰρ ἐβλήθη. (cf. Π 806-8), ὑφ οῦ δὲ οὐτάσθη
+                                (cf. Π 820-1) ⁑</p>
                         </div>
                     </div>
                     <!--
