@@ -223,17 +223,6 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </cit> καὶ ἴ̈σως κατα τὸ σιωπώμενον ἐκεῖ αὐτὸν ὠνείδισυεν ⁑ </p>
                         </div>
                     </div>
-                    <div n="10" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.24</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
                     <!--
                     <div n="11" type="scholion">
                         <div type="lemma">
