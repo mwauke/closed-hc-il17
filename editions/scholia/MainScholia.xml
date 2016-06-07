@@ -161,18 +161,24 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="7" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers158">Πάτροκλον</persName> βάλε
+                                δουρὶ </p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.9</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι βέβληται ὁ <persName n="urn:cite:hmt:pers.pers158"
+                                    >Πάτροκλος</persName> ὑπο τοῦ <persName
+                                    n="urn:cite:hmt:pers.pers464">Εὐφόρβου</persName> καὶ οὐκ
+                                ούτασται, καθάπερ <persName n="urn:cite:hmt:pers.pers15"
+                                    >Ζηνόδοτος</persName> γράφει·<q>σχεδὸν οὔτασε <rs type="ethnic"
+                                        n="urn:cite:hmt:pers.pers675">Δάρδανος</rs> ἀνήρ</q> ⁑</p>
                         </div>
                     </div>
                     <div n="8" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>μη σε βάλω</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.15</p>
@@ -183,24 +189,38 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="9" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>οὔτε συος κάπρου</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.17</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>κατ επίτασιν <choice>
+                                    <abbr>ἀλκι<add type="supralinear">μ</add>τερος</abbr>
+                                    <expan>ἀλκιμώτερος</expan>
+                                </choice> γὰρ ὁ κάπρος· δι ὃ ἐπὶ πᾶσι τέτακται οὐ κ’ἄλλα διὰ τὸ
+                                θυμικώτερον εἶναι τὸν κάπρον τῶν ἄλλων ζώων ἐπενήνοχε προς αὔξησιν
+                                καὶ ἔστιν σῦς μὲν τὸ γενικὸν, κάπρος δὲ τὸ εἰδικον, ἀπο τοῦ κάπτειν
+                                ⁑</p>
                         </div>
                     </div>
                     <div n="10" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>οὐδε μὲν οὐδε βίη</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.21</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τὸ σημεῖον <persName n="urn:cite:hmt:pers.pers323">Διονύσιος</persName> δια τὸν <persName n="urn:cite:hmt:pers.pers921">Ὑπερήνορα</persName> φησὶ. προ εἴρηται γὰρ <cit>
+                                    <ref type="urn"
+                                        >urn:cts:greekLit:tlg0012.tlg001:14.516-14.517</ref>
+                                    <q> <persName n="urn:cite:hmt:pers.pers119">Ἀτρείδης</persName> δ ἂρ' ἔπειθ' <persName n="urn:cite:hmt:pers.pers921"><w>Ὑπερ<unclear>ή</unclear>νορα</w></persName>
+                                        ποιμείνα <choice>
+                                            <sic>λαῶν</sic>
+                                            <corr>λαὼν</corr>
+                                        </choice> ούτασε</q>
+                                </cit> καὶ ἴ̈σως κατα τὸ σιωπώμενον ἐκεῖ αὐτὸν ὠνείδισυεν ⁑ </p>
                         </div>
                     </div>
                     <div n="10" type="scholion">
