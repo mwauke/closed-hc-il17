@@ -51,10 +51,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.8</p>
                         </div>
                         <div type="comment">
-                            <p><q>τοῦ</q> <persName n="urn:cite:hmt:pers.pers119"><choice>
+                            <p>τοῦ <persName n="urn:cite:hmt:pers.pers119"><choice>
                                         <abbr>Μενε</abbr>
                                         <expan>Μενελάου</expan>
-                                    </choice></persName> ἡ <q>τοῦ</q> <persName
+                                    </choice></persName> ἡ τοῦ <persName
                                     n="urn:cite:hmt:pers.pers158">Πατρόκλου</persName> ὃ καὶ
                                 πιθανώτερον. ⁑</p>
                         </div>
@@ -67,7 +67,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.19</p>
                         </div>
                         <div type="comment">
-                            <p>ὑπερβίως αὐχεῖν ο <choice><abbr>εστ</abbr><expan>ἐστιν</expan></choice> <choice><abbr>υπ</abbr><expan>ὑπὲρ</expan></choice> τὴν δύναμιν·</p>
+                            <p>ὑπερβίως αὐχεῖν ο <choice>
+                                    <abbr>εστ</abbr>
+                                    <expan>ἐστιν</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>υπ</abbr>
+                                    <expan>ὑπὲρ</expan>
+                                </choice> τὴν δύναμιν·</p>
                         </div>
                     </div>
                     <!-- <div n="4" type="scholion">

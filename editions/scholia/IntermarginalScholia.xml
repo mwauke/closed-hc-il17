@@ -57,7 +57,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.14</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.14</p>
                         </div>
                         <div type="comment">
                             <p>έδει <q><choice>
@@ -72,7 +72,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:15.20</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.20</p>
                         </div>
                         <div type="comment">
                             <p>δια τοῦ <rs type="waw">α</rs> αἱ <persName n="urn:cite:hmt:pers.pers16"><choice>
