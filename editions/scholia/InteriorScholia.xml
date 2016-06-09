@@ -143,7 +143,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice> εχπαν <choice>
                                     <abbr>αντ</abbr>
                                     <expan>αντὶ</expan>
-                                </choice> εχπαν τοῦ <q>δειλαίοις</q> ⁑</p>
+                                </choice> εχπαν τοῦ <q>δειλαίοις</q></p>
                         </div>
                     </div>
                     <div n="8" type="scholion">
@@ -162,7 +162,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <abbr>Ἀριστ</abbr>
                                     <expan>Ἀρισταρχος</expan>
                                 </choice></persName>
-                                <q>χαλκός</q> αλλοι δὲ <q>χαλκόι</q>: ⁑</p>
+                                <q>χαλκός</q> αλλοι δὲ <q>χαλκόι</q> ⁑</p>
                         </div>
                     </div>
                 </body>
