@@ -133,15 +133,15 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ότε με ὕβρισεν:</p>
                         </div>
                     </div>
-                    <!--    <div n="10" type="scholion">
+                    <div n="10" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.54@ἀναβέβροχεν</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>ἀνεφύσησεν</p>
                         </div>
                     </div>
                     <div n="11" type="scholion">
@@ -149,10 +149,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.55@πνοιαὶ δονέουσι</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>τοῦτο ἢν το ἀνεμοστρεφες</p>
                         </div>
                     </div>
                     <div n="12" type="scholion">
@@ -160,24 +160,24 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.65@δῃῶν</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>διασπῶν διακόπτων</p>
                         </div>
                     </div>
-                    <div n="" type="scholion">
+                    <div n="13" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.66@ϊύζουσιν</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>τῶν <choice><abbr>κατ</abbr><expan>κάτα</expan></choice> μίμησιν καὶ <choice><abbr>τουτ</abbr><expan>τοῦτο</expan></choice></p>
                         </div>
                     </div>
-                    <div n="" type="scholion">
+                    <!--   <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
