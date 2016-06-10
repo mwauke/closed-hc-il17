@@ -23,7 +23,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </fileDesc>
     </teiHeader>
     <text>
-        <group n="11">
+        <group n="17">
             <text n="msA">
                 <body>
                     <div n="1" type="scholion">
@@ -366,11 +366,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <q>οὐτίς</q> τὸ ζῷον παρ' <persName n="urn:cite:hmt:pers.pers138"
                                     >Αλκμᾶνι</persName>, οὕτως οὖν καὶ <q>φροντίς</q>, εἰ μὴ ἄρα
                                 ἐπεὶ κύριον τοῦτο καὶ βαρυτονηθήσεται· οὐ μάχεται τὸ <q>πόρτις</q>
-                                καὶ γὰρ <q>χωρὶς</q> τοῦ <rs type="waw">τ</rs>
+                                καὶ γὰρ χωρὶς τοῦ <rs type="waw">τ</rs>
                                 <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:10.410</ref>
                                     <q>πόριες περι βοῦς ἀγελαίας</q>
-                                </cit>· <q>μὴ ὄντα ἐπιθετικὰ</q> πρόσκειται δια τὸ <q>πότις</q> ᾦ
+                                </cit>· μὴ ὄντα ἐπιθετικὰ πρόσκειται δια τὸ <q>πότις</q> ᾦ
                                 παράκειται τῳ πότης </p>
                         </div>
                     </div>
