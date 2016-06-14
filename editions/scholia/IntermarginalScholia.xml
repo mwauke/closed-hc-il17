@@ -190,7 +190,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.71</p>
                         </div>
                         <div type="comment">
                             <p>τὸ <q><choice>
@@ -210,7 +210,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.95</p>
                         </div>
                         <div type="comment">
                             <p><choice>
@@ -221,6 +221,47 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                         <expan>περιστήῳσι</expan>
                                     </choice></q>
                             </p>
+                        </div>
+                    </div>
+                    <div n="13" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.101</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice>
+                                <q><choice>
+                                        <abbr>παραχωρήσαντ</abbr>
+                                        <expan>παραχωρήσαντα</expan>
+                                    </choice></q>
+                                <q><choice>
+                                        <abbr>υπχωρήσαντ</abbr>
+                                        <expan>ὑποχωρήσαντα</expan>
+                                    </choice></q>:</p>
+                        </div>
+                    </div>
+                    <div n="14" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.103</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers15"><choice>
+                                        <abbr>Ζηνοδ</abbr>
+                                        <expan>Ζηνόδοτος</expan>
+                                    </choice></persName>
+                                <q>ιόντε</q>
+                                <choice>
+                                    <abbr>δκως</abbr>
+                                    <expan>δυϊκῶς</expan>
+                                </choice> ⁑</p>
                         </div>
                     </div>
                     <!-- <div n="" type="scholion">
