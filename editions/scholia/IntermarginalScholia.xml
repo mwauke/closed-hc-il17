@@ -264,6 +264,25 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice> ⁑</p>
                         </div>
                     </div>
+                    <div n="15" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.133</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>οὕτω</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>χω</abbr>
+                                    <expan>χωρὶς</expan>
+                                </choice> τοῦ <rs type="waw">ϊ</rs>
+                                <q>ἑστήκει</q></p>
+                        </div>
+                    </div>
                     <!-- <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
