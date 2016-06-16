@@ -283,6 +283,41 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <q>ἑστήκει</q></p>
                         </div>
                     </div>
+                    <div n="16" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.144</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice>
+                                <persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Αριστ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName> αλλοι δὲ <q>σαώσῃς</q> διὰ <add
+                                    place="supralinear">τ</add> τοῦ <rs type="waw">η</rs> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="17" type="scholion">
+                        <div type="lemma">
+                            <p>σχέτλι'</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.150-17.151</p>
+                        </div>
+                        <div type="comment">
+                            <p>αγνοοῦσι τὰ ᾠκονομημένα <choice>
+                                    <abbr>πε</abbr>
+                                    <expan>περὶ</expan>
+                                </choice> τοῦ <persName n="urn:cite:hmt:pers.pers195"
+                                    >Σαρπηδόνος</persName>
+                                <persName n="urn:cite:hmt:pers.pers40">Ἀπόλλωνι</persName> ⁑</p>
+                        </div>
+                    </div>
                     <!-- <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
