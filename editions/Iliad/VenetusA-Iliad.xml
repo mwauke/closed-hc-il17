@@ -24,7 +24,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   </teiHeader>
   <text>
     <body>
-      <div n="12">
+      <div n="17">
         <l n="1"> οὐδ᾽ ἔλαθ᾽ <persName n="urn:cite:hmt:pers.pers23">Ἀτρέος</persName> υἱὸν ἀρηΐφιλον
             <persName n="urn:cite:hmt:pers.pers119">Μενέλαον</persName></l>
         <l n="2"><persName n="urn:cite:hmt:pers.pers158">Πάτροκλος</persName>. <rs type="ethnic"
