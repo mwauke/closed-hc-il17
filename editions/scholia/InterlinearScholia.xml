@@ -230,40 +230,40 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>παραστρόφοις τοῖς ὀφθαλμοῖς ⁑</p>
                         </div>
                     </div>
-                    <!--   <div n="" type="scholion">
+                    <div n="17" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.155@πεφήσεται</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>φανερος γενήσεται:</p>
                         </div>
                     </div>
-                    <div n="" type="scholion">
+                    <div n="18" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.161@ἔλθοι τεθνῃὼς</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p><choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> τοῦ <q>κομισθείη</q></p>
                         </div>
                     </div>
-                    <div n="" type="scholion">
+                    <div n="19" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.171@ἐφάμην</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>ἔδοξα· ενόμισα:</p>
                         </div>
                     </div>
-                    <div n="" type="scholion">
+                    <!--<div n="" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
