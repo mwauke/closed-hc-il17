@@ -1687,24 +1687,47 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="87" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers768">φόρκυν</persName> τε Χρομίον
+                                τε:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.218</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι τὸν ἐν τῷ Διακόσμῳ <persName n="urn:cite:hmt:pers.pers766"
+                                    >Χρόμιον</persName> εἰρημένον <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.858</ref>
+                                    <q>Μυσῶν δὲ <persName n="urn:cite:hmt:pers.pers766"
+                                            >Χρόμις</persName> ἦρχε</q>
+                                </cit>, νῦν Χρομιον εἴρηκε δια τὸ μέτρον ὁ δὲ <persName
+                                    n="urn:cite:hmt:pers.pers323">Διονύσιος</persName>
+                                <q>εἴ τις ζητοίη φησί πότερον παραπεποίηται</q>· εἴποιμεν ἂν τὸν
+                                Χρομίον εὔλογον γὰρ ἔκεῖ τὸ ὄνομα πρῶτον ⁑</p>
                         </div>
                     </div>
                     <div n="88" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers768">Φόρκυν</persName>:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.218</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὡς βότρυν ἀπ ευθείας τῆς εἰς <rs type="waw">ς</rs> ληγούσης· ἡ μέντοι <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012:tlg001:17.312</ref>
+                                    <q><persName n="urn:cite:hmt:pers.pers768"
+                                        >Φόρκυνα</persName></q>
+                                </cit> αἰτιατικὴ ἀπ ευθείας τῆς εἰς <rs type="waw">ν</rs> τὸ δε
+                                τοιοῦτον ἴδιον ποιητικῆς· οὐχ ὑγιῶς δὲ ὁ <persName
+                                    n="urn:cite:hmt:pers.pers105">Τυραννίων</persName> ἐκτείνει τὸ
+                                    <rs type="waw">υ</rs> ἐπεὶ εὐρέθη φησὶ καὶ ἡ εὐθεῖα ἐκτεινομένη
+                                ἡ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.862</ref>
+                                    <q><persName n="urn:cite:hmt:pers.pers768">Φόρκυς</persName> αὖ
+                                            <rs type="ethnic" n="urn:cite:hmt:place.place231"
+                                            >Φρύγας</rs> ἦγε</q>
+                                </cit> ἐκεῖ γὰρ τὸ μέτρον κατήπειγεν ἐνθάδε δὲ οὐδὲν κατεπείγει
+                                ⁑</p>
                         </div>
                     </div>
                     <!--
