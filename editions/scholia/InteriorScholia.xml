@@ -409,11 +409,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p><q>τεύχεσι δὲ <choice>
-                                <abbr>λαμπoμε</abbr>
-                                <expan>λαμπόμενος</expan>
-                            </choice>
-                                <persName n="urn:cite:hmt:pers.pers158">Πηλείωνος</persName>
-                                ἰνδάλλετο πᾶσιν αἰτῷ</q></p>
+                                        <abbr>λαμπoμε</abbr>
+                                        <expan>λαμπόμενος</expan>
+                                    </choice>
+                                    <persName n="urn:cite:hmt:pers.pers158">Πηλείωνος</persName>
+                                    ἰνδάλλετο πᾶσιν αἰτῷ</q></p>
                         </div>
                     </div>
                     <div n="25" type="scholion">
@@ -425,19 +425,36 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p>καὶ ἕτερον παραδίδωσιν <persName n="urn:cite:hmt:pers.pers542"
-                                >Ἔννομον</persName>
+                                    >Ἔννομον</persName>
                                 <choice>
                                     <abbr>υπ</abbr>
                                     <expan>ὐπὸ</expan>
                                 </choice>
                                 <persName n="urn:cite:hmt:pers.pers118"><choice>
-                                    <abbr>Οδ</abbr>
-                                    <expan>Ὀδυσσέως</expan>
-                                </choice></persName>
+                                        <abbr>Οδ</abbr>
+                                        <expan>Ὀδυσσέως</expan>
+                                    </choice></persName>
                                 <choice>
                                     <abbr>ἀνηρηον</abbr>
                                     <expan>ἀνῃρημένον</expan>
                                 </choice> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="26" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.242</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὐ δεῖ ἀναστρέφειν <choice>
+                                    <abbr>ἐνταυθ</abbr>
+                                    <expan>ἐνταῦθα</expan>
+                                </choice> τὴν <choice>
+                                    <abbr>προθ</abbr>
+                                    <expan>πρόθεσιν :</expan>
+                                </choice></p>
                         </div>
                     </div>
                     <!-- <div n="" type="scholion">

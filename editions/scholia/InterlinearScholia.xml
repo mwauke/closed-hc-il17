@@ -346,6 +346,46 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>καταδαπανῶ</p>
                         </div>
                     </div>
+                    <div n="26" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.229@τεθνειῶ</p>
+                        </div>
+                        <div type="comment">
+                            <p>ῃ</p>
+                        </div>
+                    </div>
+                    <div n="27" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.236@πολέσσιν</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice>
+                                <q>πολλῶν</q></p>
+                        </div>
+                    </div>
+                    <div n="28" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.242@ὅσσον</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice> ἐνηλλάγη πτῶσις</p>
+                        </div>
+                    </div>
                     <!--<div n="" type="scholion">
                         <div type="lemma">
                             <p/>
