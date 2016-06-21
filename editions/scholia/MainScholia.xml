@@ -1730,6 +1730,50 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 ⁑</p>
                         </div>
                     </div>
+                    <div n="89" type="scholion">
+                        <div type="lemma">
+                            <p>οὐ γὰρ ἐγὼ πληθὺν διζήμενος:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.220</p>
+                        </div>
+                        <div type="comment">
+                            <p> ὅτι ἀπο τοῦ <q>γὰρ</q> ἤρξατο ὥς καὶ ἐπ εκείνου, <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:10.190</ref>
+                                    <q>ὦ φίλοι οὐ γάρ τ' ἴ̈μεν ὅπη ζόφος</q>
+                                </cit> (κ 190) ⁑</p>
+                        </div>
+                    </div>
+                    <div n="90" type="scholion">
+                        <div type="lemma">
+                            <p>προφρονέoς ῥύοισθε φιλοπτολέμων ὑπ <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place96">Αχαιῶν</rs>: </p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.223-17.224</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἥτοι ὑποστικτέον <q><rs type="ethnic" n="urn:cite:hmt:place.place96"
+                                        >Ἀχαιῶν</rs></q>, ἢ στικτέον τοῦ διστιχίου ἠ τοῖς ἑξῆς ἐπάνω
+                                προσδιδομένου ⁑</p>
+                        </div>
+                    </div>
+                    <div n="91" type="scholion">
+                        <div type="lemma">
+                            <p>τὰ φρονέων <del>:δε</del> δώροισι κατατρύχω: </p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.225-17.226</p>
+                        </div>
+                        <div type="comment">
+                            <p>καταπονῶ ὑμῖν δηλονότι δωρεὰς καὶ τὰ ἐπιτήδεια παρέχειν ἀναγκάζω·
+                                ἄλλως· ὅρα τὸ αἰσχρόν· κατατρύχεσθαι φησὶ τοὺς <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place6">Τρώας</rs> εἰς τὴν τῶν <choice>
+                                    <sic>σὺμμάχων</sic>
+                                    <corr>συμμάχων</corr>
+                                </choice> διας τροφὴν ⁑</p>
+                        </div>
+                    </div>
                     <!--
                     <div n="81" type="scholion">
                         <div type="lemma">
