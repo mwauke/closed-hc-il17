@@ -1778,7 +1778,100 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice> διας τροφὴν ⁑</p>
                         </div>
                     </div>
-
+                    <div n="92" type="scholion">
+                        <div type="lemma">
+                            <p>‡ τῶ τις νῦν ἰθὺς</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.227</p>
+                        </div>
+                        <div type="comment">
+                            <p>κατ ευθὺ τῶν πολεμίων. ἄλλως σκοπεῖ τὴν ἄνοιαν ἀξιοῖ, ἀντι τῶν τροφῶν
+                                ὧν παρέσχεν ἀυτοῖς ἀντι δοῦναι τὰς ψυχάς ⁑ </p>
+                        </div>
+                    </div>
+                    <div n="93" type="scholion">
+                        <div type="lemma">
+                            <p>ἣ γὰρ πολέμου ὁαριστύς·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.228</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὁ ἀρίζειν κυρίως ἐστὶ τὸ ὁμιλεῖν, νῦν δὲ μεταφορικῶς τίς ἡ πολε̋μου
+                                ὁμιλία ἢ όλεθρος ἢ <choice>
+                                    <abbr>σρια</abbr>
+                                    <expan>σωτηρία</expan>
+                                </choice>· ὁ δὲ λόγος αὕτη <choice>
+                                    <sic>γὰρ</sic>
+                                    <corr>γάρ</corr>
+                                </choice> ἐστιν ἡ τοῦ πολέμου ομιλία· ὅ εστιν οὕτως δεῖ
+                                ἀναστρεφεσθαι ἐν πολέμῳ καὶ ἀριστεύειν αὕτη γὰρ καὶ ἀρετῆ
+                                πολεμούντων ⁑</p>
+                        </div>
+                    </div>
+                    <div n="94" type="scholion">
+                        <div type="lemma">
+                            <p>ἥμισυ τῶν ἐνάρων·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.231</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὕτως <q>τῷ</q>
+                                <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχω</persName>, κατα
+                                δοτικὴν τῷ ἐρυσσαμένῳ ἐνάρων δὲ λέγει ὦν περιέκειτο ⁑</p>
+                        </div>
+                    </div>
+                    <div n="95" type="scholion">
+                        <div type="lemma">
+                            <p>οἱδ' ἰθὺς <rs type="ethnic" n="urn:cite:hmt:pers.pers66">Δαναῶν</rs>
+                                βρίσαντες·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.233</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἑαυτοὺς καταβαρύναντες στίφος ποιήσαντες καὶ στερεώσαντες ⁑</p>
+                        </div>
+                    </div>
+                    <div n="96" type="scholion">
+                        <div type="lemma">
+                            <p>καὶ τότ' ἂρ <persName n="urn:cite:hmt:pers.pers127"
+                                >Αἴας</persName>:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.237</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἡ πρός <choice>
+                                    <abbr>ἐλλειπ</abbr>
+                                    <expan>ἐλλείπει</expan>
+                                </choice> ἵν' ᾖ προσεῖπεν τὸν <persName
+                                    n="urn:cite:hmt:pers.pers119">Μενέλαον</persName>· καὶ ἐν
+                                        <title><ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"
+                                        >Ὀδυσσείᾳ</ref></title>
+                                <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:23.91</ref>
+                                    <q>ῆστο κάτω ὁρόων ποτιδέγμενος εἴ τι μιν εἴποι</q>
+                                </cit> προσείποι ⁑</p>
+                        </div>
+                    </div>
+                    <div n="97" type="scholion">
+                        <div type="lemma">
+                            <p>οὔτε τόσον νέκυος·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.240</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἄδηλον πότερον περι νέκυος <persName
+                                    n="urn:cite:hmt:pers.pers158">Πατρόκλου</persName>. ἠ περι
+                                    <persName n="urn:cite:hmt:pers.pers158">Πατρόκλου</persName> τοῦ
+                                νέκυος γεγονότος· ἀναστρεπτέον δὲ τὴν πρόθεσιν ὅπως τὸ ἑξῆς γένηται
+                                περι νέκυος ⁑</p>
+                        </div>
+                    </div>
                     <div n="98" type="scholion">
                         <div type="lemma">
                             <p>ὅσσον ἐμῇ κεφαλῇ, </p>
@@ -1829,8 +1922,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.</p>
                         </div>
                         <div type="comment">
-                            <p> προς τὴν ἀποστροφὴν οὐ γὰρ εἶπεν <q>πίνεται</q>· <q>δήμια</q> δὲ τὰ παρα τοῦ δήμου
-                                ἐξαιρέτως διδόμενα τοῖς βασιλεῦσι ⁑</p>
+                            <p> προς τὴν ἀποστροφὴν οὐ γὰρ εἶπεν <q>πίνεται</q>· <q>δήμια</q> δὲ τὰ
+                                παρα τοῦ δήμου ἐξαιρέτως διδόμενα τοῖς βασιλεῦσι ⁑</p>
                         </div>
                     </div>
                     <!--
