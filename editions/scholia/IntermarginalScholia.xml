@@ -552,8 +552,94 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.251</p>
                         </div>
                         <div type="comment">
-                            <p>παρα τὸ <q>ἐκ δὲ <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName>
-                                βασιλῆες</q> ⁑</p>
+                            <p>παρα τὸ <q>ἐκ δὲ <persName n="urn:cite:hmt:pers.pers8"
+                                        >Διὸς</persName> βασιλῆες</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="33" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.253</p>
+                        </div>
+                        <div type="comment">
+                            <p>θαυμαστικῶς οἷον μεγάλη ⁑</p>
+                        </div>
+                    </div>
+                    <div n="34" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.260</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν αλλῳ· <q>τίς κ ήσιν ἐνι φρεσὶν</q></p>
+                        </div>
+                    </div>
+                    <div n="35" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.264</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν τῆ <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice>
+                                <persName n="urn:cite:hmt:pers.pers21"><choice>
+                                        <abbr>Ἀριστοφα</abbr>
+                                        <expan>Ἀριστοφάνη</expan>
+                                    </choice></persName>
+                                <q>βεβρύχῃ</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="36" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.268</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers15"><choice>
+                                        <abbr>Ζηνόδοτ</abbr>
+                                        <expan>Ζηνόδοτος</expan>
+                                    </choice></persName>
+                                <q>ἀρθέντες</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="37" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.270</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀριστ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName> διὰ <choice>
+                                    <abbr>τ</abbr>
+                                    <expan>τοῦ</expan>
+                                </choice>
+                                <rs type="waw">ε</rs>
+                                <q>ἔχθαιρε</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="38" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.273</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐν ἄλλῳ <q>ῶρσεν <rs type="ethnic" n="urn:cite:hmt:place.place">Ἀχαιους</rs></q>.</p>
                         </div>
                     </div>
                     <!-- 

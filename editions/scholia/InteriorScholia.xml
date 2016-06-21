@@ -457,6 +457,20 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice></p>
                         </div>
                     </div>
+                    <div n="27" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.253</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>ἐκκέκαυτ</abbr>
+                                    <expan>ἐκκέκαυται</expan>
+                                </choice></p>
+                        </div>
+                    </div>
                     <!-- <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
