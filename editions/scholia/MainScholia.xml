@@ -1694,15 +1694,19 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.218</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι τὸν ἐν τῷ Διακόσμῳ <persName n="urn:cite:hmt:pers.pers766"
-                                    >Χρόμιον</persName> εἰρημένον <cit>
+                            <p>ὅτι τὸν ἐν <title><ref type="urn"
+                                        n="urn:cts:greekLit:tlg0012.tlg001:2.815-2.877">τῷ
+                                        Διακόσμῳ</ref></title>
+                                <persName n="urn:cite:hmt:pers.pers766">Χρόμιον</persName> εἰρημένον <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.858</ref>
                                     <q>Μυσῶν δὲ <persName n="urn:cite:hmt:pers.pers766"
                                             >Χρόμις</persName> ἦρχε</q>
-                                </cit>, νῦν Χρομιον εἴρηκε δια τὸ μέτρον ὁ δὲ <persName
+                                </cit>, νῦν <persName n="urn:cite:hmt:pers.pers766"
+                                    >Χρομιον</persName> εἴρηκε δια τὸ μέτρον ὁ δὲ <persName
                                     n="urn:cite:hmt:pers.pers323">Διονύσιος</persName>
                                 <q>εἴ τις ζητοίη φησί πότερον παραπεποίηται</q>· εἴποιμεν ἂν τὸν
-                                Χρομίον εὔλογον γὰρ ἔκεῖ τὸ ὄνομα πρῶτον ⁑</p>
+                                    <persName n="urn:cite:hmt:pers.pers766">Χρομίον</persName>
+                                εὔλογον γὰρ ἔκεῖ τὸ ὄνομα πρῶτον ⁑</p>
                         </div>
                     </div>
                     <div n="88" type="scholion">
@@ -1774,19 +1778,63 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice> διας τροφὴν ⁑</p>
                         </div>
                     </div>
+
+                    <div n="98" type="scholion">
+                        <div type="lemma">
+                            <p>ὅσσον ἐμῇ κεφαλῇ, </p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.242</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐνθάδε οὐκ ἀναστρεπτέον τὴν πρόθεσιν ἐπεὶ δοκεῖ ἀντι τῆς <q>ὑπέρ</q>
+                                κεῖσθαι καὶ ἐνηλλάχθαι πτῶσις ἀντι γὰρ τοῦ <q>ὑπερ εμῆς κεφαλῆς</q>·
+                                δι ὃ καὶ σημεῖον παράκειται ⁑</p>
+                        </div>
+                    </div>
+                    <div n="99" type="scholion">
+                        <div type="lemma">
+                            <p>ἀλλ’ άγ' ἀριστῆας δαναῶν κάλει ἥ τις ἀκούση: </p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.248</p>
+                        </div>
+                        <div type="comment">
+                            <p>δύναται μὲν λέγειν ἐάν τις ἀκούσῃ δια τὸν κτύπον καὶ τὸν θόρυβον.
+                                δύναται δὲ καὶ οὕτως, ἐὰν ἄρα τις ὑπακούσῃ καὶ μη καταπτήξῃ ⁑</p>
+                        </div>
+                    </div>
+                    <div n="100" type="scholion">
+                        <div type="lemma">
+                            <p>οἵ τε παρ <persName n="urn:cite:hmt:pers.pers22">Ἀτρειδης
+                                    Ἀγαμέμνονι</persName>,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.248</p>
+                        </div>
+                        <div type="comment">
+                            <p> κανταῦθα τὸ Ἑλληνικὸν δείκνυται οὐ γὰρ κατ' ἄνδρα κληθέντες οὐδὲ̀
+                                κατα πρόσωπον διαιρεθέντες συνέρχονται ἀλλ ὁμοῦ πάντες ἕκαστος γὰρ
+                                αὐτῶν τὸ τοῦ ἀριστέως ὄνομα κυριώτερον <choice>
+                                    <sic>ἡγεὶτο</sic>
+                                    <corr>ἡγεῖτο</corr>
+                                </choice> τῆς φυσικῆς ὀνομασίας ⁑</p>
+                        </div>
+                    </div>
+                    <div n="101" type="scholion">
+                        <div type="lemma">
+                            <p>δήμια πίνουσιν·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.</p>
+                        </div>
+                        <div type="comment">
+                            <p> προς τὴν ἀποστροφὴν οὐ γὰρ εἶπεν <q>πίνεται</q>· <q>δήμια</q> δὲ τὰ παρα τοῦ δήμου
+                                ἐξαιρέτως διδόμενα τοῖς βασιλεῦσι ⁑</p>
+                        </div>
+                    </div>
                     <!--
-                    <div n="81" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.205</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
-                    <div n="78" type="scholion">
+                    <div n="100" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -1795,28 +1843,6 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p/>
-                        </div>
-                    </div>
-                    <div n="79" type="scholion">
-                        <div type="lemma">
-                            <p/>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.</p>
-                        </div>
-                        <div type="comment">
-                            <p/>
-                        </div>
-                    </div>
-                     <div n="71" type="scholion">
-                        <div type="lemma">
-                            <p></p>
-                        </div>
-                        <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.</p>
-                        </div>
-                        <div type="comment">
-                            <p></p>
                         </div>
                     </div>
                     -->
