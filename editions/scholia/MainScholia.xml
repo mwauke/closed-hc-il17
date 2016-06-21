@@ -2033,6 +2033,74 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                         n="urn:cite:hmt:pers.pers158">Πάτροκλον</persName></q>.</p>
                         </div>
                     </div>
+                    <div n="108" type="scholion">
+                        <div type="lemma">
+                            <p><persName n="urn:cite:hmt:pers.pers172">Ἕκτορα</persName> δ'
+                                ἐγγύθεν:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.582</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι <persName n="urn:cite:hmt:pers.pers15"><choice>
+                                        <abbr>Ζηνοδοτ</abbr>
+                                        <expan>Ζηνόδοτος</expan>
+                                    </choice></persName> γράφει <q><persName
+                                        n="urn:cite:hmt:pers.pers172">Ἔκτορα</persName> δὲ φρένας
+                                    δίὸς <persName n="urn:cite:hmt:pers.pers83">Ἄρης</persName>
+                                    ὄτρυνεν μετελθών·</q> πόθεν δὲ <choice>
+                                    <sic>οὗτως</sic>
+                                    <corr>οὕτως</corr>
+                                </choice> ὁ <persName n="urn:cite:hmt:pers.pers83">Ἄρης</persName>
+                                ἐξαίφνης πάρεστι⁑</p>
+                        </div>
+                    </div>
+                    <div n="109" type="scholion">
+                        <div type="lemma">
+                            <p>μαλθακὸς αἰχμητής:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.588</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸ σημεῖον ὅτι οὐχ ὡς τῷ ὄντι μαλθακοῦ αἰχμητοῦ ὄντος τοῦ <persName
+                                    n="urn:cite:hmt:pers.pers119">Μενελάου</persName> ληπτέον ἀλλα
+                                τὸ πρόσωπον πολέμιον ὂν εἰς διαβολὴν λέγει ἀρηΐφιλον γὰρ ὁ ποιητὴς <choice>
+                                    <abbr>αυτ</abbr>
+                                    <expan>αὐτὸν</expan>
+                                </choice> καλεῖ ⁑</p>
+                        </div>
+                    </div>
+                    <div n="110" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.</p>
+                        </div>
+                        <div type="comment">
+                            <p>πρέποντας πολεμίῳ τοὺς λόγους περιτέθεικεν ὁ ποιητὴς ἐπεί τοι ὀυκ
+                                οἶδε δειλὸν τὸν <persName n="urn:cite:hmt:pers.pers119"
+                                    >Μενέλαον</persName> βοὴν γὰρ ἀγαθὸν πανταχοῦ καλεῖ αὐτον ὅ
+                                ἐστιν ἐν μάχῃ ἀνδρεῖον ⁑</p>
+                        </div>
+                    </div>
+                    <div n="111" type="scholion">
+                        <div type="lemma">
+                            <p>μαρμαρέην <placeName n="urn:cite:hmt:place.place89">Ἴδην</placeName>
+                                δὲ,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.594</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἴδιον ὑποτίθεται τῆς αιγίδος τὸ ἀνέμων ποιεῖν <choice>
+                                    <sic>συστροφὰς</sic>
+                                    <corr>συστροφάς</corr>
+                                </choice>, ἀπο τοῦ αυτοῦ δὲ καὶ καταιγίδες αἱ πνοιαὶ αἱ κάτω
+                                ἀΐσσουσαι ⁑</p>
+                        </div>
+                    </div>
                     <!--
                     <div n="100" type="scholion">
                         <div type="lemma">
