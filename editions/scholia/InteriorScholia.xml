@@ -645,6 +645,51 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice> ⁑</p>
                         </div>
                     </div>
+                    <div n="40" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.</p>
+                        </div>
+                        <div type="comment">
+                            <p>ανέπεισε καὶ παρώτρυνεν ⁑</p>
+                        </div>
+                    </div>
+                    <div n="41" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.710</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>κεχολωμε</abbr>
+                                    <expan>κεχολωμένον</expan>
+                                </choice>
+                                <persName n="urn:cite:hmt:pers.pers119">Ἀτρείωνι</persName>.</p>
+                        </div>
+                    </div>
+                    <div n="42" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.721</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers21"><choice>
+                                        <abbr>Αριστοφ</abbr>
+                                        <expan>Ἀριστοφάνης</expan>
+                                    </choice></persName>
+                                <choice>
+                                    <abbr>δκ</abbr>
+                                    <expan>δυϊκῶς</expan>
+                                </choice>
+                                <q>μένοντε</q> ⁑</p>
+                        </div>
+                    </div>
                     <!-- <div n="" type="scholion">
                         <div type="lemma">
                             <p/>
