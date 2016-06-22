@@ -2052,7 +2052,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <sic>οὗτως</sic>
                                     <corr>οὕτως</corr>
                                 </choice> ὁ <persName n="urn:cite:hmt:pers.pers83">Ἄρης</persName>
-                                ἐξαίφνης πάρεστι⁑</p>
+                                ἐξαίφνης πάρεστι ⁑</p>
                         </div>
                     </div>
                     <div n="109" type="scholion">
@@ -2131,7 +2131,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     ὀστέον ἄχρις</q> κατα βάθους γὰρ φαίνεται ἡ πληγὴ ἐπενηνεγμένη.
                                 ἀλλ' ἐρεῖ <persName n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName>.
                                 οὐκ ἐγὼ, ἀλλ' ὁ τόπος εἰς ὃν κατενέχθη ἡ πληγὴ, ἔστι γὰρ ἡ ὠμοπλάτη
-                                ἀσαρκοτάτη⁑</p>
+                                ἀσαρκοτάτη ⁑</p>
                         </div>
                     </div>
                     <div n="114" type="scholion">
@@ -2144,18 +2144,103 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p>ὅτι οὐκ εἴρηται παρα τὸν <persName n="urn:cite:hmt:pers.pers344"
-                                    >Ἀλεκτρυονα</persName> τὸ ζῷον τὸ ὄνομα οὐδέπω γὰρ ἔγνωστο‡</p>
+                                    >Ἀλεκτρυονα</persName> τὸ ζῷον τὸ ὄνομα οὐδέπω γὰρ ἔγνωστο ‡</p>
                         </div>
                     </div>
-                    <div n="100" type="scholion">
+                    <div n="115" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἐν καυλῷ δ' εάγη:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.607</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τὸ τῆς ἐπιδορατίδος λέγει δὲ ἀντὶ τοῦ κατα τὸν καυλὸν· οὕτως δὲ μόνως
+                                φησὶν ὁ <persName n="urn:cite:hmt:pers.pers175">Δίδυμος</persName>
+                                ἐν τοῖς διορθωτικοῖς <q>τοὶ δ' ἔβοησαν</q> ἀβέλτερον γὰρ τελέως τὸ
+                                    <q>τοὶ δ' ἐφόβηθεν</q>, οὐ γὰρ φεύγουσιν, ἀλλα διώκουσιν καὶ ἐπι
+                                    <persName n="urn:cite:hmt:pers.pesr158">Πατρόκλου</persName> τὸ
+                                ὅμοιον <cit>
+                                    <ref type="urn"
+                                        >urn:cts:greekLit:tlg0012.tlg001:17.723-17.234</ref>
+                                    <q>ἐπί δ' ΐαχε λαὸς ὄπισθε <rs type="ethnic"
+                                            n="urn:cts:hmt:place.place6">Τρωϊκός</rs></q>
+                                </cit> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="116" type="scholion">
+                        <div type="lemma">
+                            <p><rs type="ethnic" n="urn:cite:hmt:pers.pers6">Τρῶες</rs>, ὁ δ'
+                                    <persName n="urn:cite:hmt:pers.pers287">Ἰδομενῆος ἀκόντισε
+                                    Δευκαλίδαο</persName> ἕως τοῦ αὐτὸς δ' ὤλεσε θυμὸν,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.608-17.616</p>
+                        </div>
+                        <div type="comment">
+                            <p> λίαν τούτων πέπλεκται ὁ λόγος καὶ ἔστι τῶν ἔξω περιφερομένων
+                                ζητημάτων <q>ὁ δ' <persName n="urn:cite:hmt:pers.pers287"
+                                        >Ἰδομενῆος</persName> ἀκόντισε δίφρῳ ἐφεσταότος</q> πεζὸς
+                                γὰρ τὰ πρῶτα λιπών νέας ήλυθε· τίς πεζὸς ήλυθε. <q>καί κε <rs
+                                        type="ethnic" n="urn:cite:hmt:place.place6">Τρωσὶ</rs> μέγα
+                                    κρατος</q>
+                                <choice>
+                                    <abbr>οὑτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice> αυτὸς ἐτρώθη ὅτι πεζὸς ἦν, ἀλλα δεῖ νοεῖν· τὰ μὲν δια
+                                μέσου εἰρημένα. τὰ δε κεφαλαιωδῶς ἐξενηνεγμένα ὕστερον τῆς ἐπι
+                                μέρους ἐπεργασίας τυχόντα κατ επανάληψιν· τὸ δὲ <q>πεζὸς γὰρ τὰ
+                                    πρωτα</q> οὐκ επι τοῦ <persName n="urn:cite:hmt:pers.pers1070"
+                                    >Κοιράνου</persName> ἀκουστέον, ἀλλ επι τοῦ <persName
+                                    n="urn:cite:hmt:pers.pers287">Ἰδομενέως</persName> σαφὲς δὲ ἐκ
+                                τοῦ ἐπιφέρεσθαι <q>καί κεν <rs type="ethnic"
+                                        n="urn:cite:hmt:place.place6">Τρωσὶ</rs> μέγα κράτος</q>, οὑ
+                                γὰρ ἂν τάσσοι τὸ τοῦτο οικείως ἐπι τοῦ <persName
+                                    n="urn:cite:hmt:pers.pers1070">Κοιράνου</persName>, ἢν γὰρ οὐ
+                                τῶν ἀριστέων. ἀλλ' επι τοῦ <persName n="urn:cite:hmt:pers.pers287"
+                                    >Ἰδομενέως</persName>. δια μέσου δὲ ταυτα <q>δίφρω ἐφεσταότος
+                                    τοῦ μέν ρ’ ἀπο τυτθὸν άμαρτεν αὐτὰρ ὁ <persName
+                                        n="urn:cite:hmt:pers.pers212">Μηριόναο</persName> ὁπαονά θ'
+                                    ἡνίοχόν τε <persName n="urn:cite:hmt:pers.pers1070"
+                                        >Κοίρανον</persName> ὅς ρ’ ἐκ <placeName
+                                        n="urn:cite:hmt:place.place362">Λύκτου</placeName>
+                                    ἐϋκτιμένης ἕπετ' αὐτῷ</q> ὥστε εῖναι τὸ ἑξῆς. <q>ὁ δ' <persName
+                                        n="urn:cite:hmt:pers.pers287">Ϊδομενῆος ἀκόντισε
+                                        Δευκαλίδαο</persName></q> πεζὸς γὰρ τὰ πρῶτα λιπὼν νέας
+                                ἤλυθεν ὁ <persName n="urn:cite:hmt:pers.pers287"
+                                    >Ϊδομενεύς</persName>· εἴωθε δὲ ὁ ποιητής τινα δια μέσου τάσσειν
+                                κεφάλαιον δὲ νοητέον αὐτὸ μόνον προειρῆσθαι ἐν τῷ <q>ὁ δ' <persName
+                                        n="urn:cite:hmt:pers.pers287">Ἰδομενῆος ἀκόντισε
+                                        Δευκαλίδαο</persName> δίφρω, ἐφεσταότος</q>. εἶτα
+                                ἐπεξηγεῖται τὴν αἰτίαν πῶς ἐγένετο ἐν τῷ δίφρῳ πότερον μὲν ἦν πεζὸς
+                                τότε δὲ ὁ <persName n="urn:cite:hmt:pers.pers1070"
+                                    >Κοίρανος</persName> αὐτῷ παρέστησε τὸ ἅρμα πεζὸς μὲν γὰρ τὰ
+                                πρωτα <choice>
+                                    <sic>λιπων</sic>
+                                    <corr>λιπον</corr>
+                                </choice> νέας, ἐν τῇ <num value="13">Ν</num> ἀπο τῆς σκηνῆς ὁ
+                                    <persName n="urn:cite:hmt:pers.pers287">Ϊδομενεὺς</persName> νῦν
+                                δὲ ἄφνω πέφηνεν ἐφ ἅρματος οὐ γάρ ἐστιν ὁ λόγος ὅτι ἀπο <placeName
+                                    n="urn:cite:hmt:place.place21">Κρήτης</placeName> πεζὸς ῆλθεν οὐ
+                                χρησάμενος ἅρματι καθάπερ ὁ <persName n="urn:cite:hmt:pers.pers118"
+                                    >Ὀδυσσεὺς</persName> τραχεῖαν ἔχων τὴν <placeName
+                                    n="urn:cite:hmt:place.place63">Ϊθάκην</placeName>· σημαίνει οὖν
+                                ὅτι ἀπο τῶν νεῶν πεζὸς ῆλθεν επι τὸν πόλεμον, προθεὶς οὖν τὸ
+                                κεφάλαιον, ὕστερον ἐπεκδιδάσκει πῶς ἔσχεν ἅρμα <q>καί κε <rs
+                                        type="ethnic" n="urn:cite:hmt:place.place6">Τρωσὶ</rs> μέγα
+                                    κράτος ἐγγυάλιξεν εἰ μὴ <persName n="urn:cite:hmt:pers.pers1070"
+                                        >Κοίρανος</persName> ὦκα ποδώκεας ἤλασεν ἵππους·</q> τοῦτο
+                                οὖν προλαβὼν ἐξήνεγκεν, <q>ὁ δ' <persName
+                                        n="urn:cite:hmt:pers.pers287">Ἰδομενηος ἀκόντισε
+                                        Δευκαλίδαο</persName> δίφρῳ ἐφεσταότος</q> πῶς, ὁ γὰρ
+                                    <persName n="urn:cite:hmt:pers.pers1070">Κοίρανος</persName>
+                                ἤλασε τοὺς ἵππους ἐπεὶ αὐτός γε πεζὸς ἐλήλυθε. <q>πεζὸς γὰρ τὰ πρωτα
+                                    λιπὼν νέας ήλυθε</q>, τίς γὰρ ἦ ἰδιότης ὅτι, εἴπερ ἐμάχετο πεζὸς
+                                ἀπολώλειεν οις <choice>
+                                    <abbr>ἐντροπ</abbr>
+                                    <expan>ἐντροπὴ</expan>
+                                </choice> ἐγένετο προς οὺς <persName n="urn:cite:hmt:pers.pers345"
+                                    >Πηνέλως</persName> ῆρχεν ⁑</p>
                         </div>
                     </div>
                     <!--
