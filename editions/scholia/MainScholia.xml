@@ -2101,6 +2101,63 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 ἀΐσσουσαι ⁑</p>
                         </div>
                     </div>
+                    <div n="112" type="scholion">
+                        <div type="lemma">
+                            <p>ἀστράψας δὲ μάλα,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.595</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName>
+                                γράφει <q>γῆν δ' ἐτίναξε</q> ταύτην γὰρ ἐπισείων ἀνέμους ποιεῖ διo
+                                λέγει <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:4.167</ref>
+                                    <q>αὐτὸς ἐπείῃσιν ἐρεμνὴν αἰγιδα πᾶσιν</q>
+                                </cit>· βραχὺ δὲ διασταλτέον ἐπι τὸν <q>δὲ</q>. ἐπι γὰρ τῆς βροντῆς
+                                ἐπίτασις μάλα μέγαλ ⁑</p>
+                        </div>
+                    </div>
+                    <div n="113" type="scholion">
+                        <div type="lemma">
+                            <p>ἄκρον ἐπιλίγδην.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.599</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι τὸ <q>ἐπιλίγδην</q> μεσότητός ἐστιν ἐπιψανδην, ὅσον δι' επιπολῆς
+                                ψαῦσαι, μὴ εἰς βάθος· εἰ οὖν <q>ἐπιλίγδην</q>. πῶς <q>γράψεν δέ οἱ
+                                    ὀστέον ἄχρις</q> κατα βάθους γὰρ φαίνεται ἡ πληγὴ ἐπενηνεγμένη.
+                                ἀλλ' ἐρεῖ <persName n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName>.
+                                οὐκ ἐγὼ, ἀλλ' ὁ τόπος εἰς ὃν κατενέχθη ἡ πληγὴ, ἔστι γὰρ ἡ ὠμοπλάτη
+                                ἀσαρκοτάτη⁑</p>
+                        </div>
+                    </div>
+                    <div n="114" type="scholion">
+                        <div type="lemma">
+                            <p>υἱὸν <persName n="urn:cite:hmt:pers.pers344"
+                                >Ἀλεκτρυόνος</persName>.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.602</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι οὐκ εἴρηται παρα τὸν <persName n="urn:cite:hmt:pers.pers344"
+                                    >Ἀλεκτρυονα</persName> τὸ ζῷον τὸ ὄνομα οὐδέπω γὰρ ἔγνωστο‡</p>
+                        </div>
+                    </div>
+                    <div n="100" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
                     <!--
                     <div n="100" type="scholion">
                         <div type="lemma">
