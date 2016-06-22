@@ -2243,6 +2243,89 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     >Πηνέλως</persName> ῆρχεν ⁑</p>
                         </div>
                     </div>
+                    <div n="117" type="scholion">
+                        <div type="lemma">
+                            <p>ἤλυθε καί κε <rs type="ethnic" n="urn:cite:hmt:place.place6"
+                                    >Τρωσὶ</rs>,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.612-17.613</p>
+                        </div>
+                        <div type="comment">
+                            <p>πάντως ἀπώλετο ἂν ὁ <persName n="urn:cite:hmt:pers.pers212"
+                                    >Μηριόνης</persName> εἰ μη πεζὸς ἀφίκτο ὡς εί γε τῷ <persName
+                                    n="urn:cite:hmt:pers.pers287">Ϊδομενεῖ</persName> ἡνιόχει
+                                ἀπολώλει ἂν καθὰ καὶ ὁ <persName n="urn:cite:hmt:pers.pers1070"
+                                    >Κοίρανος</persName> τὸ γὰρ <q>πεζὸς γὰρ τὰ πρῶτα.</q> καὶ ἐπι
+                                τοῦ <persName n="urn:cite:hmt:pers.pers212">Μηριόνου</persName>
+                                ἀκουστέον ⁑</p>
+                        </div>
+                    </div>
+                    <div n="118" type="scholion">
+                        <div type="lemma">
+                            <p>εἰ μη <persName n="urn:cite:hmt:pers.pers1070">Κοίρανος</persName>
+                                ὦκα ποδώκεας:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.614</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐκδεκτεον τὸν λόγον επι τοῦ <persName n="urn:cite:hmt:pers.pers287"
+                                    >Ἰδομενέως</persName> ὁ <persName n="urn:cite:hmt:pers.pers1070"
+                                    >Κοίρανος</persName> ϊδὼν τὸν <persName
+                                    n="urn:cite:hmt:pers.pers287">Ἰδομενέα</persName> κινδυνεύοντα
+                                πεζὸν πεζὸς γὰρ ἀπο τοῦ ναυστάθμου ἐξήλασε τοὺς ἵππους δεξάμενος
+                                αὐτὸν ἐπι τῶν ἵππων ἔφθασε τὴν τοῦ <persName
+                                    n="urn:cite:hmt:pers.pers172">Ἕκτορος</persName> βολὴν ὥστε μετα
+                                τὸ ἀναβῆναι ἐπι τὸ ἅρμα τότε πεμφθῆναὶ τὸ δόρυ αὐτῷ, αὐτὸς δὲ ὁ
+                                    <persName n="urn:cite:hmt:pers.pers1070">Κοίρανος</persName>
+                                ἀπώλετο σώσας τὸν <persName n="urn:cite:hmt:pers.pers287"
+                                    >Ἰδομενέα</persName> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="119" type="scholion">
+                        <div type="lemma">
+                            <p>τὸν βάλ' ὑπὸ γναθμοῖο:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.617</p>
+                        </div>
+                        <div type="comment">
+                            <p>κατα τὸ εἰκὸς πλαγία ἡ πληγὴ γίνεται περιστρέφοντος αὐτοῦ τοὺς
+                                ἵππους· καὶ γὰρ ὑπο τὴν σιαγόνα διαβὰν τὸ δόρυ ἀνέσχε δια τῆς ἑτέρας
+                                καὶ οὐκ έστιν ἀδύνατον τοῦτο ὡς προείρηται δια τὸ περιστρέφοντα
+                                αὐτὸν τοὺς ἵππους βεβλῆσθαι ⁑</p>
+                        </div>
+                    </div>
+                    <div n="120" type="scholion">
+                        <div type="lemma">
+                            <p>μάστιε νῦν: </p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.620-17.621</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι τοῦτο φιλικὸν, αὐτὸς μὲν γὰρ ὡς νέος καὶ ἀκμάζων κινδυνεύειν
+                                βούλεται τὸν δὲ ἤδη προηβηκοτα προπέμπει καὶ τὴν ἀσφάλειαν αὐτῷ
+                                πορίζεται ⁑</p>
+                        </div>
+                    </div>
+                    <div n="121" type="scholion">
+                        <div type="lemma">
+                            <p><persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> ὅτε δὴ <rs
+                                    type="ethnic" n="urn:cite:hmt:place.place6">Τρώεσσι</rs> δίδου
+                                ἑτεραλκέα νικην:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.627</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὐ γὰρ ἄλλως νίκη γίνεται. ἢ τῶν <choice>
+                                    <sic>ἑτ<unclear>α</unclear>ίρων</sic>
+                                    <corr>ἑτείρων</corr>
+                                </choice> ἐπ ἀλκῆς ὄντων ‡ </p>
+                        </div>
+                    </div>
                     <!--
                     <div n="100" type="scholion">
                         <div type="lemma">
