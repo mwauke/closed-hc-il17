@@ -639,7 +639,46 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.273</p>
                         </div>
                         <div type="comment">
-                            <p>ἐν ἄλλῳ <q>ῶρσεν <rs type="ethnic" n="urn:cite:hmt:place.place">Ἀχαιους</rs></q>.</p>
+                            <p>ἐν ἄλλῳ <q>ῶρσεν <rs type="ethnic" n="urn:cite:hmt:place.place"
+                                        >Ἀχαιους</rs></q>.</p>
+                        </div>
+                    </div>
+                    <div n="39" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.597</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>οτ</abbr>
+                                    <expan>ὅτι</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>αντ</abbr>
+                                    <expan>ἀντὶ</expan>
+                                </choice>
+                                <q>φυγῆς</q>· </p>
+                        </div>
+                    </div>
+                    <div n="40" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.603</p>
+                        </div>
+                        <div type="comment">
+                            <p>διὰ τοῦ <rs type="waw">ε</rs> αἱ <persName
+                                    n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Αρισταρχ</abbr>
+                                        <expan>Ἀριστάρχου</expan>
+                                    </choice></persName>
+                                <q><choice>
+                                        <abbr>έλπετ</abbr>
+                                        <expan>ἔλπετο</expan>
+                                    </choice></q></p>
                         </div>
                     </div>
                     <!-- 
