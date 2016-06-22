@@ -2326,6 +2326,115 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice> ἐπ ἀλκῆς ὄντων ‡ </p>
                         </div>
                     </div>
+                    <div n="122" type="scholion">
+                        <div type="lemma">
+                            <p>σχήσεσθ', ἀλλ ἐν νηυσὶ</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.639</p>
+                        </div>
+                        <div type="comment">
+                            <p>προς τὸ ἀμφίβο<unclear/> αὐτοὺς ἐμπεσεῖσθαι ταῖς ναυσὶ ἢ τὸν
+                                    <persName n="urn:cite:hmt:pers.pers172">Ἕκτορα</persName>·
+                                πιθανώτερον δὲ τὸν <persName n="urn:cite:hmt:pers.pers172"
+                                    >Ἕκτορα</persName> ἐμπεσεῖσθαι ἐνσείσει ⁑</p>
+                        </div>
+                    </div>
+                    <div n="123" type="scholion">
+                        <div type="lemma">
+                            <p>ἀλλ οὔ πῃ δύναμαι:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.643</p>
+                        </div>
+                        <div type="comment">
+                            <p>πῶς παρείληπται τὸ <q>οὕ πη</q> σημαίνει γὰρ τὸ εἰς τόπον· <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:6.377</ref>
+                                    <q>πῆ έβη <persName n="urn:cite:hmt:pers.pers171"
+                                            >Ἀνδρομάχῃ</persName>·</q>
+                                </cit> τὸ δὲ ποῦ ἐστιν ἐν τόπῳ ὅπερ καταλληλότερον, <q>ἀλλ οὐ
+                                    δύναμαι ἔν τινι τόπῳ ἰδεῖν τινὰ τῶν <rs type="ethnic"
+                                        n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs> τοιοῦτον</q>
+                                μηποτε οὖν οὐχ ὡς τοπικὸν ἐπίρρημα, ἀλλ ὡς παραπληρωματικὸν
+                                σύνδεσμον ἐκληπτέον ⁑</p>
+                        </div>
+                    </div>
+                    <div n="124" type="scholion">
+                        <div type="lemma">
+                            <p>ἡέρι γὰρ κατέχονται·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.644</p>
+                        </div>
+                        <div type="comment">
+                            <p> ὅτι ἀέρα τὴν σκοτίαν καλεῖ· καὶ γὰρ αὐτὸς ὁ ἀὴρ τῇ δύσει σκοτεινός
+                                ἐστι· λαμπρύνεται δὲ ἐπιφανέντος τοῦ ἡλίου. <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:9.144</ref>
+                                    <q>ἀὴρ γὰρ παρα νηυσὶ βαθεῖ ην</q>
+                                </cit> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="125" type="scholion">
+                        <div type="lemma">
+                            <p>δοὶ δ’ οφθαλμοῖσιν ϊδεσθαι,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.645-17.647</p>
+                        </div>
+                        <div type="comment">
+                            <p> μεγαλοφρόνως οὐ σωτηρίαν αἰτεῖται, ἀλλα φῶς προσ τῶν ὀφθαλμῶν
+                                χρείαν. ἵνα δρῶντές τι καὶ πάθωσιν ⁑</p>
+                        </div>
+                    </div>
+                    <div n="126" type="scholion">
+                        <div type="lemma">
+                            <p>τὸν δε πατὴρ ὀλοφύρατο:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.648</p>
+                        </div>
+                        <div type="comment">
+                            <p>περιπαθῶς εἰσάγει τὸν Αἴαντα δακρύοντα οὐ γὰρ ἐν ἄλλοις εὑρίσκομεν
+                                δεδακρυκότα. οὐ γὰρ ἦν κατ' Αἴαντα ⁑ </p>
+                        </div>
+                    </div>
+                    <div n="127" type="scholion">
+                        <div type="lemma">
+                            <p>αὐτίκα δ' ἠέρα μεν:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.649</p>
+                        </div>
+                        <div type="comment">
+                            <p> ὅτι σαφῶς τὴν σκοτίαν ἀέρα λέ//λέγει ἔστι γὰρ ταὐτὸν τῷ ὁμίχλῃ καὶ
+                                ἀπῶσεν τὸν ἀυέρα ὅς ἐστιν ὁμίχλη ⁑</p>
+                        </div>
+                    </div>
+                    <div n="128" type="scholion">
+                        <div type="lemma">
+                            <p>καὶ τότ' ἄρ' Αίας:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.651</p>
+                        </div>
+                        <div type="comment">
+                            <p> ὅτι οὐκ εἰπε βοὴν ἀγαθῷ Μενελάῳ ἀλλὰ κατὰ παράλειψιν τῆς προθέσεως·
+                                προς βὴν ἀγαθὸν Μενέλαον ⁑</p>
+                        </div>
+                    </div>
+                    <div n="129" type="scholion">
+                        <div type="lemma">
+                            <p>ζωὸν ἔτ' ἀντίλ/ο(grave for acute)/χον</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.653</p>
+                        </div>
+                        <div type="comment">
+                            <p>καὶ τοῦτο περιπαθές ὡς οὐκ ἐλπίζων ἔτι ζῆν τὸν ἥρωα διὰ τὴs συνέχειαν
+                                τῆς μάχης ‡</p>
+                        </div>
+                    </div>
+
                     <!--
                     <div n="100" type="scholion">
                         <div type="lemma">
