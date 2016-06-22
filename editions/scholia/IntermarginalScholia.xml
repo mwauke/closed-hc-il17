@@ -817,6 +817,17 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>κατεστύγνασεν ηνιάθη ⁑</p>
                         </div>
                     </div>
+                    <div n="51" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.727</p>
+                        </div>
+                        <div type="comment">
+                            <p>τὸ <q>ἕως</q> <choice><abbr>αντ</abbr><expan>ἀντί</expan></choice> τοῦ <q>τέως</q> διόπερ οὐδε ὑποστιγμὴν ποιεῖ ⁑</p>
+                        </div>
+                    </div>
                     <!-- 
                         <div n="" type="scholion">
                         <div type="lemma">
