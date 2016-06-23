@@ -2432,7 +2432,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="129" type="scholion">
                         <div type="lemma">
-                            <p>ζωὸν ἔτ' <choice><sic>ἀντὶλοχον</sic><corr>ἀντίλοχον</corr></choice></p>
+                            <p>ζωὸν ἔτ' <choice>
+                                    <sic>ἀντὶλοχον</sic>
+                                    <corr>ἀντίλοχον</corr>
+                                </choice></p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.653</p>
@@ -2440,6 +2443,60 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div type="comment">
                             <p>καὶ τοῦτο περιπαθές ὡς οὐκ ἐλπίζων ἔτι ζῆν τὸν ἥρωα διὰ τὴs συνέχειαν
                                 τῆς μάχης ‡</p>
+                        </div>
+                    </div>
+                    <div n="130" type="scholion">
+                        <div type="lemma">
+                            <p>βῆ δ’ ϊέναι ὡς τίς τε λέων </p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.657-17.664</p>
+                        </div>
+                        <div type="comment">
+                            <p>πολλαὶ αἱ εἰκόνες κατα τοῦ ἥρωος πρῶτον γὰρ αὐτὸν εἴκασε δια τὴν
+                                φιλοστοργίαν βοΐ νῦν δὲ λέοντι ἀκούσιον ποιουμένῳ ἀποχώρησιν· καὶ
+                                ἑξῆς δια τὴν οξυδορκίαν αετῷ παρέβαλεν αὐτόν ⁑</p>
+                        </div>
+                    </div>
+                    <div n="131" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.660</p>
+                        </div>
+                        <div type="comment">
+                            <p>λέγεται τὸν λέοντα, ἐν τῇ ουρὰ ἐκ φύσεως ἔχειν λεπτόν τι κεντρῶδες ὑφ
+                                οῦ νυττόμενος καὶ πονῶν πλέον ἀγριοῦται ⁑</p>
+                        </div>
+                    </div>
+                    <div n="132" type="scholion">
+                        <div type="lemma">
+                            <p>ἀργαλέου προ φόβοιο   </p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.667 </p>
+                        </div>
+                        <div type="comment">
+                            <p> ὅτι ἀντὶ τοῦ <q>ὑπὸ φόβου</q> ὁ έστιν <q>ὑπο φυγῆς</q> καὶ ὅτι
+                                    <q>ἕλωρ</q>
+                                <q>ἕλεμα</q> ⁑ </p>
+                        </div>
+                    </div>
+                    <div n="133" type="scholion">
+                        <div type="lemma">
+                            <p>ὀξύτατον δέρκεσθαι </p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.675</p>
+                        </div>
+                        <div type="comment">
+                            <p> φησὶν ὁ <persName n="urn:cite:hmt:pers.pers300"><choice>
+                                        <abbr>Ἀριστοτε</abbr>
+                                        <expan>Ἀριστοτέλης</expan>
+                                    </choice></persName> ὡς <q/>ἵστησι τοὺς νεοσσοὺς πρὸς ἥλιον ὁ
+                                αετὸς ἀναγκάζων βλέπειν· καὶ ὁ δυνηθεὶς ὁρᾶν τοῦ ἀετοῦ ἐστιν υἱὸς. ὁ
+                                δὲ μὴ, ἐκβέβληται καὶ γεγονεν ἁλιαιετός<q/> ⁑</p>
                         </div>
                     </div>
 
