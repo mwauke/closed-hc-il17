@@ -2394,8 +2394,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.648</p>
                         </div>
                         <div type="comment">
-                            <p>περιπαθῶς εἰσάγει τὸν Αἴαντα δακρύοντα οὐ γὰρ ἐν ἄλλοις εὑρίσκομεν
-                                δεδακρυκότα. οὐ γὰρ ἦν κατ' Αἴαντα ⁑ </p>
+                            <p>περιπαθῶς εἰσάγει τὸν <persName n="urn:cite:hmt:pers.pers127"
+                                    >Αἴαντα</persName> δακρύοντα οὐ γὰρ ἐν ἄλλοις εὑρίσκομεν
+                                δεδακρυκότα. οὐ γὰρ ἦν κατ' <persName n="urn:cite:hmt:pers.pers127"
+                                    >Αἴαντα</persName> ⁑ </p>
                         </div>
                     </div>
                     <div n="127" type="scholion">
@@ -2406,25 +2408,31 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.649</p>
                         </div>
                         <div type="comment">
-                            <p> ὅτι σαφῶς τὴν σκοτίαν ἀέρα λέ//λέγει ἔστι γὰρ ταὐτὸν τῷ ὁμίχλῃ καὶ
-                                ἀπῶσεν τὸν ἀυέρα ὅς ἐστιν ὁμίχλη ⁑</p>
+                            <p> ὅτι σαφῶς τὴν σκοτίαν ἀέρα <choice>
+                                    <abbr>λέ</abbr>
+                                    <expan>λέγει</expan>
+                                </choice> ἔστι γὰρ ταὐτὸν τῷ ὁμίχλῃ καὶ ἀπῶσεν τὸν ἀυέρα ὅς ἐστιν
+                                ὁμίχλη ⁑</p>
                         </div>
                     </div>
                     <div n="128" type="scholion">
                         <div type="lemma">
-                            <p>καὶ τότ' ἄρ' Αίας:</p>
+                            <p>καὶ τότ' ἄρ' <persName n="urn:cite:hmt:pers.pers127"
+                                >Αίας</persName>:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.651</p>
                         </div>
                         <div type="comment">
-                            <p> ὅτι οὐκ εἰπε βοὴν ἀγαθῷ Μενελάῳ ἀλλὰ κατὰ παράλειψιν τῆς προθέσεως·
-                                προς βὴν ἀγαθὸν Μενέλαον ⁑</p>
+                            <p> ὅτι οὐκ εἰπε <q>βοὴν ἀγαθῷ <persName n="urn:cite:hmt:pers.pers119"
+                                        >Μενελάῳ</persName></q> ἀλλὰ κατὰ παράλειψιν τῆς προθέσεως·
+                                προς <q>βὴν ἀγαθὸν <persName n="urn:cite:hmt:pers.pers119"
+                                        >Μενέλαον</persName></q> ⁑</p>
                         </div>
                     </div>
                     <div n="129" type="scholion">
                         <div type="lemma">
-                            <p>ζωὸν ἔτ' ἀντίλ/ο(grave for acute)/χον</p>
+                            <p>ζωὸν ἔτ' <choice><sic>ἀντὶλοχον</sic><corr>ἀντίλοχον</corr></choice></p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.653</p>
