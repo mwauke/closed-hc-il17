@@ -2499,7 +2499,79 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 δὲ μὴ, ἐκβέβληται καὶ γεγονεν ἁλιαιετός<q/> ⁑</p>
                         </div>
                     </div>
-
+                    <div n="134" type="scholion">
+                        <div type="lemma">
+                            <p>εἴ που <persName n="urn:cite:hmt:pers.pers117">Νεστορος</persName>
+                                υἱὸν</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.681</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice>
+                                    <abbr>ουτ</abbr>
+                                    <expan>οὕτως</expan>
+                                </choice> αἱ <persName n="urn:cite:hmt:pers.pers16"
+                                    >Ἀριστάρχειοι</persName> ΐδοιτό τις τὰ προκείμενα <q>ὅσσε</q>
+                                διὸ καὶ τὸ σημεῖον ἠ νοητέον ἀποστροφὴν λόγου προς τὸν <persName
+                                    n="urn:cite:hmt:pers.pers119">Μενέλαον</persName> ἀπο τοῦ περι
+                                αυτοῦ λόγου ⁑</p>
+                        </div>
+                    </div>
+                    <div n="135" type="scholion">
+                        <div type="lemma">
+                            <p>ὅτι πῆμα θεος <rs type="ethnic" n="urn:cite:hmt:pers.pers66"
+                                    >Δαναοῖσι</rs> κυλίνδει</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.688</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρίσταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName> βαρύνει ὑγιῶς πάνυ δια τὰ κινἥματα
+                                    <q>κυλίνδετο</q> γοῦν φησὶν, οὐχι <q>εκυλινδεῖτο</q> καὶ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.794</ref>
+                                    <q>ή δε κυλινδομένη καναχὴν ἔχε.</q>
+                                </cit> διὸ καὶ βαρέως τὴν κυλίνδων ἀναγινώσκομεν. <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:5.296</ref>
+                                    <q>μέτα κῦμα κυλίνδων</q>
+                                </cit> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="136" type="scholion">
+                        <div type="lemma">
+                            <p>βῆ <choice>
+                                    <abbr>δ</abbr>
+                                    <expan>δὲ</expan>
+                                </choice> θέειν</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.698</p>
+                        </div>
+                        <div type="comment">
+                            <p>πολλῷ περιπαθέστερον ἄνοπλον ὄντα καὶ τρέχοντα παραστῆναι τῷ
+                                    <persName n="urn:cts:hmt:pers.pers1">Ἀχιλλεῖ</persName> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="137" type="scholion">
+                        <div type="lemma">
+                            <p>τον μὲν δακρυ χέοντα</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.700</p>
+                        </div>
+                        <div type="comment">
+                            <p> πρὸς τῷ πάθει εἶχε τὴν διάνοιαν μηδ’ ὅτι τρέχει εἰδώς. ἡ διπλῆ δέ
+                                ὅτι οὕτως εἴωθε λέγειν <q>οἱ πόδες ἔφερον</q> οὐχι <q>τοὺς πόδας</q>
+                                προς <persName n="urn:cts:hmt:pers.pers15">Ζηνόδοτον</persName>
+                                μεταγράφοντα. <cit>
+                                    <ref type="urn">urn:cite:greekLit:tlg0012.tlg001:6.511</ref>
+                                    <q>ῥίμφ' εά γουνα φέρει</q>
+                                </cit> ⁑</p>
+                        </div>
+                    </div>
                     <!--
                     <div n="100" type="scholion">
                         <div type="lemma">
