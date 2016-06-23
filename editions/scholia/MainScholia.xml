@@ -358,7 +358,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>ὡς <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.673</ref>
                                     <q><persName n="urn:cite:hmt:place.place65">Ἥλιδι</persName></q>
-                                </cit>· οὕτως τυραννίων καὶ <choice>
+                                </cit>· οὕτως <persName n="urn:cite:hmt:pers.pers105">Τυραννίων</persName> καὶ <choice>
                                     <sic>ἐπείσθε</sic>
                                     <corr>ἐπείσθη</corr>
                                 </choice> ἡ παράδοσις· ὁ μέντοι κανὼν ὀξυτονεῖ τὸ <q>φροντις</q>· τὰ
@@ -389,7 +389,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div type="comment">
                             <p> τὸ ἔργον οὐκέτι ἀπείρατον ἔσται οὐδὲ ἄμαχον ὥστε ἡ ἀλκὴν
                                 ε̈πιδείξασθαι ἠ φυγήν· κατ ένια δὲ τῶν ὑπομνημάτων δια τοῦ \\<rs
-                                    type="waw">π</rs>\\ <q>ἐπι δηρὸν</q> ὁμοίως τῷ <cit>
+                                    type="waw">π</rs> <q>ἐπι δηρὸν</q> ὁμοίως τῷ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:9.415</ref>
                                     <q>ἐπι δηρὸν δέ μοι αἰών</q>
                                 </cit> ⁑</p>
@@ -452,7 +452,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 ἐρείδουσαν, τὸ δόρυ φησὶ συνεπιβαρύνας τὴν χεῖρα τῷ δόρατι ⁑</p>
                         </div>
                     </div>
-                    <div n="23" type="scholion">
+                    <div n="24" type="scholion">
                         <div type="lemma">
                             <p>ἀντικρὺ δ' ἀπαλοῖο·</p>
                         </div>
@@ -466,7 +466,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                     </div>
 
-                    <div n="24" type="scholion">
+                    <div n="25" type="scholion">
                         <div type="lemma">
                             <p>‡ αἵματί οι δεύοντο:</p>
                         </div>
@@ -476,14 +476,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div type="comment">
                             <p>ὅτι <persName n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName>
                                 γράφει <q>Χαρίτεσσι μέλαιναι</q> ἀδιανόητον ποιῶν οὐκ εἰκῆ
-                                ἐπεξεργασία τῆς κώμης ἀλλ' επεὶ περι τῶν Πατρόκλου τριχῶν εἶπεν <cit>
+                                ἐπεξεργασία τῆς κώμης ἀλλ' επεὶ περι τῶν <persName n="urn:cite:hmt:pers.pers158">Πατρόκλου</persName> τριχῶν εἶπεν <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.795</ref>
                                     <q>μιάνθησαν δὲ ἔθειραι</q>
                                 </cit> εἰς ἐκδικίας καὶ παραμυθίαν ὡς εἴποι τίς παρέβαλε καὶ τὴν
                                 εὐμορφον κόμην</p>
                         </div>
                     </div>
-                    <div n="25" type="scholion">
+                    <div n="26" type="scholion">
                         <div type="lemma">
                             <p>πλοχμοίθ’,</p>
                         </div>
@@ -497,7 +497,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 τὸν χρυσὸν. ἀλλα λάφυρα τοῖς πολεμίοις</p>
                         </div>
                     </div>
-                    <div n="26" type="scholion">
+                    <div n="27" type="scholion">
                         <div type="lemma">
                             <p>Χαρίτεσσιν ὁμοιαι: </p>
                         </div>
@@ -512,7 +512,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 συνευτραμμένας καὶ οὐλὰς μυρσίνας ἃς φαμὲν στεφανίτιδος ⁑</p>
                         </div>
                     </div>
-                    <div n="27" type="scholion">
+                    <div n="28" type="scholion">
                         <div type="lemma">
                             <p>οἶον δὲ τρέφει ἔρνος ἀνηρ: </p>
                         </div>
