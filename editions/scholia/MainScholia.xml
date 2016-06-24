@@ -64,8 +64,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.2</p>
                         </div>
                         <div type="comment">
-                            <p>ἀμφίβολον πότερον <rs type="ethnic" n="urn:cite:hmt:place.place.6"
-                                    >Τρώεσσι</rs> συνήθως κατ' ἐναλλαγὴν πτώσεως παρείληπται. ἀντι
+                            <p>ἀμφίβολον πότερον <q><rs type="ethnic" n="urn:cite:hmt:place.place.6"
+                                    >Τρώεσσι</rs></q> συνήθως κατ' ἐναλλαγὴν πτώσεως παρείληπται. ἀντι
                                 τοῦ <q><rs type="ethnic" n="urn:cite:hmt:place.place6"
                                     >Τρώων</rs></q> ὡς <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:14.459</ref>
@@ -325,9 +325,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.37</p>
                         </div>
                         <div type="comment">
-                            <p>ἄλλως ἑτέρως διαστεῖλαι ἐστὶν <q>ἀρητὸν ἐν εὐχῆς μέρει καθεστῶτα σὺ
+                            <p>ἄλλως ἑτέρως διαστεῖλαι ἐστὶν <q>ἀρητὸν</q> ἐν εὐχῆς μέρει καθεστῶτα <q>σὺ
                                     πένθος ἔθηκας</q> ἵν' ᾖ κατ ἀρσενικὴν αἰτιατικὴν ἐπι τοῦ
-                                    <persName n="921">Ὑπεῥήνορος</persName> τὸν ἀρητόν ἢ οὕτως εἰς
+                                    <persName n="921">Ὑπεῥήνορος</persName> τὸν <q>ἀρητόν</q> ἢ οὕτως εἰς
                                 τοῦτο αὐτὸν κατέστησας ὥστε εὐχὴν ἡγεῖσθαι τὸ θρηνεῖν τῶν ἑαυτῶν
                                 παὶδα καὶ ἔχειν ἐξουσίαν σχολάζειν γόοις καὶ θρήνοις ⁑</p>
                         </div>
