@@ -682,8 +682,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <sic>ὃτι</sic>
                                     <corr>ὅτι</corr>
                                 </choice> ἀντι τοῦ <q>τὸν ἐν τοῖς <rs type="ethnic"
-                                    n="urn:cite:hmt:place.place6">Τρωσὶν</rs> ἄριστον</q> οὐ γάρ ἐστιν
-                                ὡς <cit>
+                                        n="urn:cite:hmt:place.place6">Τρωσὶν</rs> ἄριστον</q> οὐ γάρ
+                                ἐστιν ὡς <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:18.10</ref>
                                     <q>Μυρμϊδόνων τὸν ἄριστον ⁑</q>
                                 </cit></p>
@@ -713,18 +713,18 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p>ὑποστικτέον ἐπι τὸ <q>αἰδεσθεις</q>, στικτέον δὲ, ἐπι τὸ <q>πολὺ</q>,
-                                ὁ γὰρ λόγος ἐλλιπής ἐστι λείποντος τοῦ <q>εὐλαβοῦμαι</q> ἠ τινὸς τοιούτου
-                                ὡς καὶ ἐν τοῖς προκειμένοις <q>μή τις μοι <rs type="ethnic"
+                                ὁ γὰρ λόγος ἐλλιπής ἐστι λείποντος τοῦ <q>εὐλαβοῦμαι</q> ἠ τινὸς
+                                τοιούτου ὡς καὶ ἐν τοῖς προκειμένοις <q>μή τις μοι <rs type="ethnic"
                                         n="urn:cite:hmt:pers.pers66">Δαναῶν</rs></q> ἔστι γὰρ τὸ
                                 πλῆρες <q>εὐλαβοῦμαι μή με τῶν <rs type="ethnic"
-                                    n="urn:cite:hmt:place.place3">Ἑλλήνων</rs> μέμψηταί τις τὸν
-                                αὐτὸν τρόπον καὶ ἐνθαδε, ἐὰν δὲ μόνος ὦν <persName
-                                    n="urn:cite:hmt:pers.pers172">Ἔκτορι</persName> καὶ <rs
-                                    type="ethnic" n="urn:cite:hmt:place.place6">Τρωσὶ</rs> μάχωμαι
-                                αἰδεσθεὶς. <choice>
-                                    <orig>εὐλαβοῦμαι</orig>
-                                    <reg>εὐλαβοῦμοι</reg>
-                                </choice> μή πως με περιστήωσ' ἕνα πολλοὶ ὄντες</q> ⁑</p>
+                                        n="urn:cite:hmt:place.place3">Ἑλλήνων</rs> μέμψηταί τις τὸν
+                                    αὐτὸν τρόπον καὶ ἐνθαδε, ἐὰν δὲ μόνος ὦν <persName
+                                        n="urn:cite:hmt:pers.pers172">Ἔκτορι</persName> καὶ <rs
+                                        type="ethnic" n="urn:cite:hmt:place.place6">Τρωσὶ</rs>
+                                    μάχωμαι αἰδεσθεὶς. <choice>
+                                        <orig>εὐλαβοῦμαι</orig>
+                                        <reg>εὐλαβοῦμοι</reg>
+                                    </choice> μή πως με περιστήωσ' ἕνα πολλοὶ ὄντες</q> ⁑</p>
                         </div>
                     </div>
                     <div n="39" type="scholion">
@@ -753,7 +753,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice> μάχεται </p>
                         </div>
                     </div>
-                    <div n="40" type="scholion">
+                    <div n="41" type="scholion">
                         <div type="lemma">
                             <p>οππότ' ανηρ: </p>
                         </div>
@@ -761,10 +761,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.98-17.99</p>
                         </div>
                         <div type="comment">
-                            <p>πῶς ἅμα <q>πρὸς δαίμονα</q> καὶ ἅμα φωτὶ μάχεσθαι, ἀλλα τὸ <q>προς
-                                    δαίμονα</q> τοιοῦτόν ἐστιν ὡς λέγογεν πρὸς κῦμα ἐναντιούμενος
-                                δαίμονι· ὁ γὰρ φωτὶ μαχόμενος τῷ ὑπὸ θεῶν τιμωμένῳ ἢ ὑπὸ θεῶν
-                                ἀγαπωμένῳ αὐτῷ τῷ <choice>
+                            <p>πῶς ἅμα πρὸς δαίμονα καὶ ἅμα φωτὶ μάχεσθαι, ἀλλα τὸ <q>προς
+                                    δαίμονα</q> τοιοῦτόν ἐστιν ὡς λέγογεν <q>πρὸς κῦμα ἐναντιούμενος
+                                    δαίμονι</q>· ὁ γὰρ φωτὶ μαχόμενος τῷ ὑπὸ θεῶν τιμωμένῳ ἢ ὑπὸ
+                                θεῶν ἀγαπωμένῳ αὐτῷ τῷ <choice>
                                     <abbr>θω</abbr>
                                     <expan>θεῷ</expan>
                                 </choice> μάχεται τῷ εκείνων στέργοντι· ὁ <persName
@@ -783,7 +783,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     δὲ ἀγαθοῦ οὐκ ἄν τις ὑπερασπίσαι·</q></p>
                         </div>
                     </div>
-                    <div n="41" type="scholion">
+                    <div n="42" type="scholion">
                         <div type="lemma">
                             <p>ἄλλως,</p>
                         </div>
@@ -797,7 +797,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 κε θεὸς τιμᾷ πρὸς δαίμονά ἐστι μάχεσθαι⁑</p>
                         </div>
                     </div>
-                    <div n="42" type="scholion">
+                    <div n="43" type="scholion">
                         <div type="lemma">
                             <p>ὅν καὶ <choice>
                                     <abbr>θς</abbr>
@@ -812,12 +812,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <abbr>θυ</abbr>
                                     <expan>θεοῦ</expan>
                                 </choice> γνώμην ἀνδρὶ μάχεσθαι, ὁφείλει ταχέως αὐτῷ κακὸν
-                                ἐπέρχεσθαι· τὸ γὰρ <q>προς δαίμονα</q> ἀντι τοῦ παρὰ supra <add
-                                    place="supralinear">του</add>
-                                <choice>
-                                    <abbr>θυ</abbr>
-                                    <expan>θεοῦ</expan>
-                                </choice> γνώμην ὡς <cit>
+                                ἐπέρχεσθαι· τὸ γὰρ <q>προς δαίμονα</q> ἀντι τοῦ <q>παρὰ <add
+                                        place="supralinear">του</add>
+                                    <choice>
+                                        <abbr>θυ</abbr>
+                                        <expan>θεοῦ</expan>
+                                    </choice> γνώμην</q> ὡς <cit>
                                     <ref type="urn">urn:ctsGreekLit:tlg0012.tlg001:17.104</ref>
                                     <q>καὶ πρὸς δαίμονά εἴ πως <choice>
                                             <abbr>ἐρησθ</abbr>
@@ -827,7 +827,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             </p>
                         </div>
                     </div>
-                    <div n="43" type="scholion">
+                    <div n="44" type="scholion">
                         <div type="lemma">
                             <p>‡ κακῶν δέ κε <choice>
                                     <sic>φέρτατὸν</sic>
@@ -843,7 +843,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     place="supralinear">ο</add> ⁑</p>
                         </div>
                     </div>
-                    <div n="44" type="scholion">
+                    <div n="45" type="scholion">
                         <div type="lemma">
                             <p>ἄλλως·</p>
                         </div>
@@ -855,7 +855,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <persName n="urn:cite:hmt:pers.pers158">Πάτροκλος</persName></p>
                         </div>
                     </div>
-                    <div n="45" type="scholion">
+                    <div n="46" type="scholion">
                         <div type="lemma">
                             <p><choice>
                                     <abbr>αλλ</abbr>
@@ -870,7 +870,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 προγεγονότων κακῶν τὸ ἄμεινον γένοιτο ⁑</p>
                         </div>
                     </div>
-                    <div n="46" type="scholion">
+                    <div n="47" type="scholion">
                         <div type="lemma">
                             <p>ἐντροπαλιζόμενος ὥς τε λις:</p>
                         </div>
@@ -883,7 +883,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             </p>
                         </div>
                     </div>
-                    <div n="47" type="scholion">
+                    <div n="48" type="scholion">
                         <div type="lemma">
                             <p>ἀπο σταθμοῦ δίωνται:</p>
                         </div>
@@ -891,11 +891,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.110</p>
                         </div>
                         <div type="comment">
-                            <p><q>δίωνται</q> ὡς λέγωνται ἔστι δὲ καὶ απο τοῦ δίημι ἡ κλισις παρ
-                                αυτῷ ⁑ </p>
+                            <p><q>δίωνται</q> ὡς λέγωνται ἔστι δὲ καὶ απο τοῦ <q>δίημι</q> ἡ κλισις
+                                παρ αυτῷ ⁑ </p>
                         </div>
                     </div>
-                    <div n="48" type="scholion">
+                    <div n="49" type="scholion">
                         <div type="lemma">
                             <p>παχνοῦται αέκων δέ τε:</p>
                         </div>
@@ -909,7 +909,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 παχνοῦται πήγνυται φρίσσει ἀπο τῆς μάχης δια τὴν αυλήν ⁑</p>
                         </div>
                     </div>
-                    <div n="49" type="scholion">
+                    <div n="50" type="scholion">
                         <div type="lemma">
                             <p>παπταίνων <persName n="urn:cite:hmt:pers.pers127">Αἴαντα</persName>
                                 μέγαν:</p>
@@ -929,7 +929,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </cit> ⁑ </p>
                         </div>
                     </div>
-                    <div n="50" type="scholion">
+                    <div n="51" type="scholion">
                         <div type="lemma">
                             <p>σπεύσομεν</p>
                         </div>
@@ -944,7 +944,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 καταγνωσθῆναι μεθ' ἢν αυτὸς ἄριστος ⁑</p>
                         </div>
                     </div>
-                    <div n="51" type="scholion">
+                    <div n="52" type="scholion">
                         <div type="lemma">
                             <p><persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> μὲν
                                     <persName n="urn:cite:hmt:pers.pers158">Πάτροκλον</persName></p>
@@ -972,11 +972,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     </choice></persName> τὸ σημεῖόν φησὶν ὅτι ήλλακται πτῶσις,
                                         <q><persName n="urn:cite:hmt:pers.pers158"
                                         >Πάτροκλον</persName> ἐπεὶ κλυτὰ· τευχε' ἀπηύρα</q> ἀντὶ τοῦ
-                                    <persName n="urn:cite:hmt:pers.pers323">Πατρόκλου</persName>
-                                ⁑</p>
+                                        <q><persName n="urn:cite:hmt:pers.pers323"
+                                        >Πατρόκλου</persName></q> ⁑</p>
                         </div>
                     </div>
-                    <div n="52" type="scholion">
+                    <div n="53" type="scholion">
                         <div type="lemma">
                             <p>ἕλχ' ΐν’ ἀπ ώμοιϊν: </p>
                         </div>
@@ -1027,7 +1027,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 ἐκδικία τοῦ φίλου χαλεπώτερον γὰρ τὸ ἄρξαι τινὸς ἀδικήματος ⁑</p>
                         </div>
                     </div>
-                    <div n="53" type="scholion">
+                    <div n="54" type="scholion">
                         <div type="lemma">
                             <p><persName n="urn:cite:hmt:pers.pers127">Αἴας</persName> ἀμφι
                                     <persName n="urn:cite:hmt:pers.pers158"><choice>
@@ -1044,7 +1044,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 προβέβληται ⁑</p>
                         </div>
                     </div>
-                    <div n="54" type="scholion">
+                    <div n="55" type="scholion">
                         <div type="lemma">
                             <p>ἑστήκει ὡς τίς τε λέων </p>
                         </div>
@@ -1073,7 +1073,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 παραβοων ⁑</p>
                         </div>
                     </div>
-                    <div n="55" type="scholion">
+                    <div n="56" type="scholion">
                         <div type="lemma">
                             <p> ρά τε νήπι' άγοντι:</p>
                         </div>
@@ -1087,7 +1087,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     >Αἴαντος</persName> τὸν ἄλκιμον ⁑</p>
                         </div>
                     </div>
-                    <div n="56" type="scholion">
+                    <div n="57" type="scholion">
                         <div type="lemma">
                             <p>ἐπισκύνιον:</p>
                         </div>
@@ -1100,7 +1100,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 τοῦτο τὸ μερος τοῖς οργιζομένοις ⁑</p>
                         </div>
                     </div>
-                    <div n="57" type="scholion">
+                    <div n="58" type="scholion">
                         <div type="lemma">
                             <p>πᾶν δέ τ' ἐπισκύνιον: </p>
                         </div>
@@ -1117,7 +1117,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 καταλίπει τὸ τέκνον </p>
                         </div>
                     </div>
-                    <div n="58" type="scholion">
+                    <div n="59" type="scholion">
                         <div type="lemma">
                             <p>ἕλκεται ὄσσε καλύπψων: </p>
                         </div>
@@ -1131,7 +1131,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 ⁑</p>
                         </div>
                     </div>
-                    <div n="59" type="scholion">
+                    <div n="60" type="scholion">
                         <div type="lemma">
                             <p><persName n="urn:cite:hmt:pers.pers172">Ἕκτορ</persName> εἶδος
                                 ἄριστε:</p>
@@ -1145,7 +1145,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 πρώτῳ χρῆσθαι ⁑</p>
                         </div>
                     </div>
-                    <div n="60" type="scholion">
+                    <div n="61" type="scholion">
                         <div type="lemma">
                             <p>ἡς’ αὐτὸς κλέος ἐσθλὸν:</p>
                         </div>
@@ -1160,7 +1160,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     >η</rs> εἴ τε θαυμαστικῶς εἴ τε βεβαιωτικῶς κεῖται ⁑</p>
                         </div>
                     </div>
-                    <div n="61" type="scholion">
+                    <div n="62" type="scholion">
                         <div type="lemma">
                             <p>πῶς κε σ.ὺ χείρονα φῶτα σαώσηας μεθ' ὅμιλον:</p>
                         </div>
@@ -1174,7 +1174,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <q>μεθ' ομίλου</q> καὶ λόγον ἔχει ἀντι τοῦ <q>ἔξω ὁμίλου</q> ⁑</p>
                         </div>
                     </div>
-                    <div n="62" type="scholion">
+                    <div n="63" type="scholion">
                         <div type="lemma">
                             <p>‡ κάλλιπες,</p>
                         </div>
@@ -1189,7 +1189,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 ⁑</p>
                         </div>
                     </div>
-                    <div n="63" type="scholion">
+                    <div n="64" type="scholion">
                         <div type="lemma">
                             <p>ζῳὸς ἐὼν</p>
                         </div>
@@ -1216,7 +1216,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </cit> ⁑</p>
                         </div>
                     </div>
-                    <div n="64" type="scholion">
+                    <div n="65" type="scholion">
                         <div type="lemma">
                             <p>τῶ νῦν εἴ τις ἐμοὶ <rs type="ethnic" n="urn:cite:hmt:place.place75"
                                     >Λυκίων</rs>:</p>
@@ -1237,7 +1237,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                         n="urn:cite:hmt:place.place6">Τροία</placeName></q></p>
                         </div>
                     </div>
-                    <div n="65" type="scholion">
+                    <div n="66" type="scholion">
                         <div type="lemma">
                             <p>οἴκαδ' ἴ̈μεν, <placeName n="urn:cite:hmt:place.place6"
                                     >Τροίῃ</placeName> δὲ πεφήσεται </p>
@@ -1253,7 +1253,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </cit>· ἀλλα <q>πεφήσεται ὄλεθρος</q> φανήσεται ⁑</p>
                         </div>
                     </div>
-                    <div n="66" type="scholion">
+                    <div n="67" type="scholion">
                         <div type="lemma">
                             <p>‡ λύσειαν καί κ' αὐτὸν:</p>
                         </div>
@@ -1272,7 +1272,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     >Πάτροκλον</persName> ⁑</p>
                         </div>
                     </div>
-                    <div n="67" type="scholion">
+                    <div n="68" type="scholion">
                         <div type="lemma">
                             <p>καί κ' αὐτὸν ἀγοίμεθα.</p>
                         </div>
@@ -1292,7 +1292,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     >Πάτροκλον</persName> ⁑</p>
                         </div>
                     </div>
-                    <div n="68" type="scholion">
+                    <div n="69" type="scholion">
                         <div type="lemma">
                             <p>οὐκ εταλασσας,</p>
                         </div>
@@ -1303,7 +1303,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>οὐχ ὑπέμεινας ἀπο τούτου καὶ τλήμων ὁ ὑπομενητικός ⁑</p>
                         </div>
                     </div>
-                    <div n="69" type="scholion">
+                    <div n="70" type="scholion">
                         <div type="lemma">
                             <p>γλαῦκε τίη δὲ συ·</p>
                         </div>
