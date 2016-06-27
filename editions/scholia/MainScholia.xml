@@ -1644,15 +1644,15 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p>ὅτι ἐπιθετικῶς ἀπο τῆς <persName n="urn:cite:hmt:pers.pers219"
-                                    >Ἐνυοῦς</persName> πολεμικῆς ούσης ὁ <persName
-                                    n="urn:cite:hmt:pers.pers83">Άρης Ἐνυάλιος</persName>, ὡς καὶ
-                                    <persName n="urn:cite:hmt:pers.pser83">Ἀρήϊος</persName> τις ἀπο
-                                τοῦ <persName n="urn:cite:hmt:pers.pers83">Ἄρεως</persName> οὐχ ὡς
-                                οἱ νεώτεροι <persName n="urn:cite:hmt:pers.pers219"
-                                    >Ἐνυοῦς</persName> υἱὸν· οὐδε <rs type="ethnic"
-                                    n="urn:cite:hmt:place.place76">Ἀττικοὶ</rs> ὡς διαφέροντα τοῦ
-                                    <persName n="urn:cite:hmt:pers.pers83">Ἄρεως</persName> θεὸν
-                                τινά ⁑</p>
+                                    >Ἐνυοῦς</persName> πολεμικῆς ούσης ὁ <q><persName
+                                        n="urn:cite:hmt:pers.pers83">Άρης Ἐνυάλιος</persName></q>,
+                                ὡς καὶ <q><persName n="urn:cite:hmt:pers.pers83"
+                                    >Ἀρήϊος</persName></q> τις ἀπο τοῦ <persName
+                                    n="urn:cite:hmt:pers.pers83">Ἄρεως</persName> οὐχ ὡς οἱ νεώτεροι
+                                    <persName n="urn:cite:hmt:pers.pers219">Ἐνυοῦς</persName> υἱὸν·
+                                οὐδε <rs type="ethnic" n="urn:cite:hmt:place.place76">Ἀττικοὶ</rs>
+                                ὡς διαφέροντα τοῦ <persName n="urn:cite:hmt:pers.pers83"
+                                    >Ἄρεως</persName> θεὸν τινά ⁑</p>
                         </div>
                     </div>
                     <div n="91" type="scholion">
@@ -1719,15 +1719,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.218</p>
                         </div>
                         <div type="comment">
-                            <p>ὡς βότρυν ἀπ ευθείας τῆς εἰς <rs type="waw">ς</rs> ληγούσης· ἡ μέντοι <cit>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012:tlg001:17.312</ref>
-                                    <q><persName n="urn:cite:hmt:pers.pers768"
-                                        >Φόρκυνα</persName></q>
-                                </cit> αἰτιατικὴ ἀπ ευθείας τῆς εἰς <rs type="waw">ν</rs> τὸ δε
-                                τοιοῦτον ἴδιον ποιητικῆς· οὐχ ὑγιῶς δὲ ὁ <persName
-                                    n="urn:cite:hmt:pers.pers105">Τυραννίων</persName> ἐκτείνει τὸ
-                                    <rs type="waw">υ</rs> ἐπεὶ εὐρέθη φησὶ καὶ ἡ εὐθεῖα ἐκτεινομένη
-                                ἡ <cit>
+                            <p>ὡς <q>βότρυν</q> ἀπ ευθείας τῆς εἰς <rs type="waw">ς</rs> ληγούσης· ἡ
+                                μέντοι <q><persName n="urn:cite:hmt:pers.pers768"
+                                    >Φόρκυνα</persName></q> αἰτιατικὴ ἀπ ευθείας τῆς εἰς <rs
+                                    type="waw">ν</rs> τὸ δε τοιοῦτον ἴδιον ποιητικῆς· οὐχ ὑγιῶς δὲ ὁ
+                                    <persName n="urn:cite:hmt:pers.pers105">Τυραννίων</persName>
+                                ἐκτείνει τὸ <rs type="waw">υ</rs> ἐπεὶ εὐρέθη φησὶ καὶ ἡ εὐθεῖα
+                                ἐκτεινομένη ἡ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.862</ref>
                                     <q><persName n="urn:cite:hmt:pers.pers768">Φόρκυς</persName> αὖ
                                             <rs type="ethnic" n="urn:cite:hmt:place.place231"
@@ -1747,7 +1745,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p> ὅτι ἀπο τοῦ <q>γὰρ</q> ἤρξατο ὥς καὶ ἐπ εκείνου, <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:10.190</ref>
                                     <q>ὦ φίλοι οὐ γάρ τ' ἴ̈μεν ὅπη ζόφος</q>
-                                </cit> (κ 190) ⁑</p>
+                                </cit> ⁑</p>
                         </div>
                     </div>
                     <div n="96" type="scholion">
