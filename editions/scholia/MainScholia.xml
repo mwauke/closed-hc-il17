@@ -1451,10 +1451,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p>ὡς <q>καταλαβών</q>· ἔστι γὰρ δεύτερος ἀόριστος. οὐδεμία δὲ μετοχὴ ἐν
-                                τῆ συνθέσει ἀναβιβάζει τὸν τόνον ὅτι μὴ μόνη ἡ <cit>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:11.557</ref>
+                                τῆ συνθέσει ἀναβιβάζει τὸν τόνον ὅτι μὴ μόνη ἡ 
                                     <q>ἀέκων</q>
-                                </cit> περι ῆς ζητοῦμεν ⁑</p>
+                                 περι ῆς ζητοῦμεν ⁑</p>
                         </div>
                     </div>
                     <div n="80" type="scholion">
