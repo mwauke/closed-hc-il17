@@ -94,7 +94,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.27</p>
                         </div>
                         <div type="comment">
-                            <p>δια τοῦ τέ <q>οὐδέ τε</q>
+                            <p>δια τοῦ <q>τε</q> <q>οὐδέ τε</q>
                                 <persName n="urn:cite:hmt:pers.pers16">Ἀρισταρχος</persName> ⁑</p>
                         </div>
                     </div>
