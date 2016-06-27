@@ -1183,10 +1183,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p>ἡ διπλῆ ὅτι τὰ <cit>
-                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.4</ref>
-                                    <q>ἐλώρια</q>
-                                </cit> οὐκ εστι <q>βρώματα</q> ὡς οἱ γλωσσογράφοι ἀλλ' ἐλκύσματα
-                                ⁑</p>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.4</ref><q>ἐλώρια</q>
+                                </cit> οὐκ εστι βρώματα ὡς οἱ γλωσσογράφοι ἀλλ' ἐλκύσματα ⁑</p>
                         </div>
                     </div>
                     <div n="64" type="scholion">
@@ -1266,7 +1264,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     n="urn:cite:hmt:pers.pers195">Σαρπηδὼν</persName> εἰς <placeName
                                     n="urn:cite:hmt:place.place75">Λυκίαν</placeName> ὑπο τοῦ
                                     <persName n="urn:cite:hmt:pers.pers894">Ὕπνου</persName> καὶ τοῦ
-                                Θανάτου διο φησιν ἀντιρυσιᾶσαι τὸν <persName
+                                <persName>Θανάτου</persName> διο φησιν ἀντιρυσιᾶσαι τὸν <persName
                                     n="urn:cite:hmt:pers.pers172">Πάτροκλον</persName> ἔως ἂν
                                 κομίσαι τὸν <persName n="urn:cite:hmt:pers.pers172"
                                     >Πάτροκλον</persName> ⁑</p>
