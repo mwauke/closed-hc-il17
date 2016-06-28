@@ -1844,17 +1844,19 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.237</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι ἡ πρός <choice>
+                            <p>ὅτι ἡ <q>πρός</q>
+                                <choice>
                                     <abbr>ἐλλειπ</abbr>
                                     <expan>ἐλλείπει</expan>
-                                </choice> ἵν' ᾖ προσεῖπεν τὸν <persName
-                                    n="urn:cite:hmt:pers.pers119">Μενέλαον</persName>· καὶ ἐν
-                                        <title><ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"
+                                </choice> ἵν' ᾖ <q>προσεῖπεν τὸν <persName
+                                        n="urn:cite:hmt:pers.pers119">Μενέλαον</persName></q>· καὶ
+                                ἐν <title><ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"
                                         >Ὀδυσσείᾳ</ref></title>
                                 <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:23.91</ref>
                                     <q>ῆστο κάτω ὁρόων ποτιδέγμενος εἴ τι μιν εἴποι</q>
-                                </cit> προσείποι ⁑</p>
+                                </cit>
+                                <q>προσείποι</q> ⁑</p>
                         </div>
                     </div>
                     <div n="103" type="scholion">
@@ -1865,11 +1867,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.240</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι ἄδηλον πότερον περι νέκυος <persName
-                                    n="urn:cite:hmt:pers.pers158">Πατρόκλου</persName>. ἠ περι
-                                    <persName n="urn:cite:hmt:pers.pers158">Πατρόκλου</persName> τοῦ
-                                νέκυος γεγονότος· ἀναστρεπτέον δὲ τὴν πρόθεσιν ὅπως τὸ ἑξῆς γένηται
-                                περι νέκυος ⁑</p>
+                            <p>ὅτι ἄδηλον πότερον <q>περι νέκυος</q>
+                                <persName n="urn:cite:hmt:pers.pers158">Πατρόκλου</persName>. ἠ
+                                    <q>περι <persName n="urn:cite:hmt:pers.pers158"
+                                        >Πατρόκλου</persName></q> τοῦ νέκυος γεγονότος· ἀναστρεπτέον
+                                δὲ τὴν πρόθεσιν ὅπως τὸ ἑξῆς γένηται περι νέκυος ⁑</p>
                         </div>
                     </div>
                     <div n="104" type="scholion">
@@ -1887,13 +1889,13 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="105" type="scholion">
                         <div type="lemma">
-                            <p>ἀλλ’ άγ' ἀριστῆας δαναῶν κάλει ἥ τις ἀκούση: </p>
+                            <p>ἀλλ’ άγ' ἀριστῆας <rs type="ethnic" n="urn:cite:hmt:pers.pers66">δαναῶν</rs> κάλει ἥ τις ἀκούση: </p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.248</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.245</p>
                         </div>
                         <div type="comment">
-                            <p>δύναται μὲν λέγειν ἐάν τις ἀκούσῃ δια τὸν κτύπον καὶ τὸν θόρυβον.
+                            <p>δύναται μὲν λέγειν <q>ἐάν τις ἀκούσῃ</q> δια τὸν κτύπον καὶ τὸν θόρυβον.
                                 δύναται δὲ καὶ οὕτως, ἐὰν ἄρα τις ὑπακούσῃ καὶ μη καταπτήξῃ ⁑</p>
                         </div>
                     </div>
@@ -2180,8 +2182,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div type="comment">
                             <p> λίαν τούτων πέπλεκται ὁ λόγος καὶ ἔστι τῶν ἔξω περιφερομένων
                                 ζητημάτων <q>ὁ δ' <persName n="urn:cite:hmt:pers.pers287"
-                                        >Ἰδομενῆος</persName> ἀκόντισε δίφρῳ ἐφεσταότος</q> πεζὸς
-                                γὰρ τὰ πρῶτα λιπών νέας ήλυθε· τίς πεζὸς ήλυθε. <q>καί κε <rs
+                                        >Ἰδομενῆος</persName> ἀκόντισε δίφρῳ ἐφεσταότος</q> <q>πεζὸς
+                                γὰρ τὰ πρῶτα λιπών νέας ήλυθε</q>· τίς πεζὸς ήλυθε. <q>καί κε <rs
                                         type="ethnic" n="urn:cite:hmt:place.place6">Τρωσὶ</rs> μέγα
                                     κρατος</q>
                                 <choice>
