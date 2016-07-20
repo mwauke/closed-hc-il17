@@ -595,7 +595,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                         <abbr>Ἀριστοφα</abbr>
                                         <expan>Ἀριστοφάνη</expan>
                                     </choice></persName>
-                                <q>βεβρύχῃ</q> ⁑</p>
+                                <q>βεβρύχῃ</q>· ⁑</p>
                         </div>
                     </div>
                     <div n="36" type="scholion">
@@ -610,7 +610,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                         <abbr>Ζηνόδοτ</abbr>
                                         <expan>Ζηνόδοτος</expan>
                                     </choice></persName>
-                                <q>ἀρθέντες</q> ⁑</p>
+                                <q>ἀρθέντες</q>: ⁑</p>
                         </div>
                     </div>
                     <div n="37" type="scholion">
@@ -641,7 +641,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p>ἐν ἄλλῳ <q>ῶρσεν <rs type="ethnic" n="urn:cite:hmt:place.place"
-                                        >Ἀχαιους</rs></q>.</p>
+                                        >Ἀχαιους</rs></q>: ⁑</p>
                         </div>
                     </div>
                     <div n="39" type="scholion">
@@ -777,7 +777,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.659</p>
                         </div>
                         <div type="comment">
-                            <p>τὸ λίπος τῆς πιμελῆς εκ παρεπομένου δὲ το ζῆν ⁑</p>
+                            <p>τὸ λίπος τῆς πιμελῆς εκ παρεπομένου δὲ το ζῆν: ⁑</p>
                         </div>
                     </div>
                     <div n="48" type="scholion">
@@ -788,7 +788,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.664</p>
                         </div>
                         <div type="comment">
-                            <p>ἐν ἄλλῳ <q>τετιημένος ῆτορ</q> ⁑</p>
+                            <p>ἐν ἄλλῳ <q>τετιημένος ῆτορ</q>: ⁑</p>
                         </div>
                     </div>
                     <div n="49" type="scholion">
@@ -818,7 +818,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.694</p>
                         </div>
                         <div type="comment">
-                            <p>κατεστύγνασεν ηνιάθη ⁑</p>
+                            <p>κατεστύγνασεν ηνιάθη: ⁑</p>
                         </div>
                     </div>
                     <div n="51" type="scholion">
@@ -833,7 +833,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 <choice>
                                     <abbr>αντ</abbr>
                                     <expan>ἀντί</expan>
-                                </choice> τοῦ <q>τέως</q> διόπερ οὐδε ὑποστιγμὴν ποιεῖ ⁑</p>
+                                </choice> τοῦ <q>τέως</q> διόπερ οὐδε ὑποστιγμὴν ποιεῖ: ⁑</p>
                         </div>
                     </div>
                     <!-- 
