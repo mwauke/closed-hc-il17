@@ -82,7 +82,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.724</p>
                         </div>
                         <div type="comment">
-                            <p><q>αἴροντας</q></p>
+                            <p><del><q>αἴροντας</q></del></p>
                         </div>
                     </div>
                     <!-- 
