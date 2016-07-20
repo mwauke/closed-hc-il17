@@ -31,7 +31,7 @@ f.eachLine { l ->
       if (currRef == prevRef) {
 	currCount++;
 	if (currCount < limit) {
-	  print "#${currCount}" + longUrn.getSubref()	  
+	  print "#" + longUrn.getSubref()	  
 	}
 	
       } else {

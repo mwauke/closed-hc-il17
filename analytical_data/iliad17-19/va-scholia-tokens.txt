@@ -248,7 +248,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.3@τὸφιλοστοργότατον[1]	urn
 urn:cts:greekLit:tlg5026.msA.hmt:17.3@ὄνομα[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.3@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msA.hmt:17.4@πρωτοτόκος[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.4@κινυρὴ:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.4@κινυρὴ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.4@ἡ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.4@οἰστρόφωνος[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.4@κινύρασθαι[1]	urn:cite:hmt:tokentypes.lexical
@@ -462,7 +462,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.11@ὥς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.11@θην[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.11@καὶ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.11@σὸν[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.11@ἐγω:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.11@ἐγω[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.11@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.11@ἄμεινον[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.11@τὰ[1]	urn:cite:hmt:tokentypes.lexical
@@ -498,7 +498,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.12@ἀναχωρήσαντα[1]	urn:cite:hmt
 urn:cts:greekLit:tlg5026.msA.hmt:17.12@κελεύω[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.12@ἐς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.12@πληθὺν[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.12@ϊέναι:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.12@ϊέναι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.12@δια[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.12@μέσου[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.12@ἐστι[1]	urn:cite:hmt:tokentypes.lexical
@@ -506,7 +506,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.12@τὸ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.12@μηδ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.12@αντίος[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.12@ἵστασ'[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.12@εμεῖο:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.12@εμεῖο[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.12@τὸ[2]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.12@δὲ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.12@ἑξῆς[1]	urn:cite:hmt:tokentypes.lexical
@@ -537,7 +537,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.13@ῥεχθεν[1]	urn:cite:hmt:tokentypes.
 urn:cts:greekLit:tlg5026.msA.hmt:17.13@δέ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.13@τέ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.13@νήπίος[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.13@ἔγνω:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.13@ἔγνω[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.13@φιλόσοφος[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.13@ἡ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.13@γνώμη[1]	urn:cite:hmt:tokentypes.lexical
@@ -914,7 +914,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.21@ὰψ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.21@δ’[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.21@ἀναχαζόμενοιο[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.21@στομάχου[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.21@θέμεθλα:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.21@θέμεθλα[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.21@οὐ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.21@λέγει[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.21@τὸ[1]	urn:cite:hmt:tokentypes.lexical
@@ -1036,7 +1036,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.24@⁑[1]	urn:cite:hmt:tokentypes.punctuatio
 urn:cts:greekLit:tlg5026.msA.hmt:17.25@‡[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msA.hmt:17.25@αἵματί[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.25@οι[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.25@δεύοντο:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.25@δεύοντο[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.25@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.25@Ζηνόδοτος[1]	urn:cite:hmt:pers.pers15
 urn:cts:greekLit:tlg5026.msA.hmt:17.25@γράφει[1]	urn:cite:hmt:tokentypes.lexical
@@ -1104,7 +1104,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.26@λάφυρα[1]	urn:cite:hmt:tokentypes.l
 urn:cts:greekLit:tlg5026.msA.hmt:17.26@τοῖς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.26@πολεμίοις[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.27@Χαρίτεσσιν[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.27@ὁμοιαι:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.27@ὁμοιαι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.27@ἀντι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.27@τοῦ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.27@ταῖς[1]	urn:cite:hmt:tokentypes.lexical
@@ -1141,7 +1141,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.28@οἶον[1]	urn:cite:hmt:tokentypes.lexi
 urn:cts:greekLit:tlg5026.msA.hmt:17.28@δὲ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.28@τρέφει[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.28@ἔρνος[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.28@ἀνηρ:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.28@ἀνηρ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.28@Ποσειδῶν[1]	urn:cite:hmt:pers.pers47
 urn:cts:greekLit:tlg5026.msA.hmt:17.28@καὶ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.28@Ἀθηνᾶ[1]	urn:cite:hmt:pers.pers67
@@ -1199,7 +1199,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.28@ἴ̈διον[1]	urn:cite:hmt:tokentypes.
 urn:cts:greekLit:tlg5026.msA.hmt:17.28@Ἀθηνᾶς[1]	urn:cite:hmt:lace.place1
 urn:cts:greekLit:tlg5026.msA.hmt:17.28@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msA.hmt:17.29@ἀναβέβευχεν[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.29@ὕδωρ:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.29@ὕδωρ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.29@Ζηνόδοτος[1]	urn:cite:hmt:pers.pers15
 urn:cts:greekLit:tlg5026.msA.hmt:17.29@δια[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.29@τοῦ[1]	urn:cite:hmt:tokentypes.lexical
@@ -1239,7 +1239,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.30@γράφεται[1]	urn:cite:hmt:tokentyp
 urn:cts:greekLit:tlg5026.msA.hmt:17.30@τὸ[2]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.30@δῃῶν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.30@⁑[1]	urn:cite:hmt:tokentypes.punctuation
-urn:cts:greekLit:tlg5026.msA.hmt:17.31@ἰ̈ύζουσιν:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.31@ἰ̈ύζουσιν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.31@οἱ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.31@νομῆες[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.31@,[1]	urn:cite:hmt:tokentypes.punctuation
@@ -1251,7 +1251,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.31@⁑[1]	urn:cite:hmt:tokentypes.punctuatio
 urn:cts:greekLit:tlg5026.msA.hmt:17.32@ἐνθά[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.32@κε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.32@ῥεῖα[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.32@φέροι:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.32@φέροι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.32@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.32@τοὺς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.32@χρόνους[1]	urn:cite:hmt:tokentypes.lexical
@@ -1269,7 +1269,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.32@ῥαδίως[1]	urn:cite:hmt:tokentypes.
 urn:cts:greekLit:tlg5026.msA.hmt:17.32@ἔφερεν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.32@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msA.hmt:17.33@ἀνέρι[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.33@εἰσάμενος:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.33@εἰσάμενος[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.33@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.33@τοῦτον[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.33@τὸν[1]	urn:cite:hmt:tokentypes.lexical
@@ -1525,7 +1525,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.40@πρὸς[1]	urn:cite:hmt:tokentypes.lexi
 urn:cts:greekLit:tlg5026.msA.hmt:17.40@θεὸν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.40@μάχεται[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.41@οππότ'[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.41@ανηρ:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.41@ανηρ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.41@πῶς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.41@ἅμα[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.41@πρὸς[1]	urn:cite:hmt:tokentypes.lexical
@@ -1635,7 +1635,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.42@τὸ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.42@δε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.42@τῆς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.42@διανοίας[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.42@οὕτως:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.42@οὕτως[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.42@τῷ[2]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.42@φωτὶ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.42@ὅν[1]	urn:cite:hmt:tokentypes.lexical
@@ -1698,7 +1698,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.44@κακῶν[1]	urn:cite:hmt:tokentypes.le
 urn:cts:greekLit:tlg5026.msA.hmt:17.44@δέ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.44@κε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.44@φέρτατον[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.44@εἴη:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.44@εἴη[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.44@ὡς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.44@ἐν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.44@κακοῖς[1]	urn:cite:hmt:tokentypes.lexical
@@ -1751,7 +1751,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.46@⁑[1]	urn:cite:hmt:tokentypes.punctuatio
 urn:cts:greekLit:tlg5026.msA.hmt:17.47@ἐντροπαλιζόμενος[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.47@ὥς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.47@τε[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.47@λις:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.47@λις[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.47@οὐκ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.47@ασθενεῖ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.47@ζώῳ[1]	urn:cite:hmt:tokentypes.lexical
@@ -1777,7 +1777,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.47@κωλύεσθαι[1]	urn:cite:hmt:tokent
 urn:cts:greekLit:tlg5026.msA.hmt:17.47@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msA.hmt:17.48@ἀπο[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.48@σταθμοῦ[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.48@δίωνται:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.48@δίωνται[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.48@δίωνται[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.48@ὡς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.48@λέγωνται[1]	urn:cite:hmt:tokentypes.lexical
@@ -1795,7 +1795,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.48@⁑[1]	urn:cite:hmt:tokentypes.punctuatio
 urn:cts:greekLit:tlg5026.msA.hmt:17.49@παχνοῦται[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.49@αέκων[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.49@δέ[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.49@τε:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.49@τε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.49@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.49@τὴν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.49@κατα[1]	urn:cite:hmt:tokentypes.lexical
@@ -1833,7 +1833,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.49@αυλήν[1]	urn:cite:hmt:tokentypes.lex
 urn:cts:greekLit:tlg5026.msA.hmt:17.49@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msA.hmt:17.50@παπταίνων[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.50@Αἴαντα[1]	urn:cite:hmt:pers.pers127
-urn:cts:greekLit:tlg5026.msA.hmt:17.50@μέγαν:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.50@μέγαν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.50@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.50@πάλιν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.50@μέγαν[1]	urn:cite:hmt:tokentypes.lexical
@@ -1914,7 +1914,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.52@ὁ[4]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.52@δε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.52@αὐτὸν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.52@γυμνὸν[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.52@ἔτρωσεν:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.52@ἔτρωσεν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.52@λῦσε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.52@δέ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.52@οι[1]	urn:cite:hmt:tokentypes.lexical
@@ -1947,7 +1947,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.52@⁑[1]	urn:cite:hmt:tokentypes.punctuatio
 urn:cts:greekLit:tlg5026.msA.hmt:17.53@ἕλχ'[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.53@ΐν’[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.53@ἀπ[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.53@ώμοιϊν:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.53@ώμοιϊν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.53@‡[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msA.hmt:17.53@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.53@νῦν[1]	urn:cite:hmt:tokentypes.lexical
@@ -2097,7 +2097,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.53@⁑[1]	urn:cite:hmt:tokentypes.punctuatio
 urn:cts:greekLit:tlg5026.msA.hmt:17.54@Αἴας[1]	urn:cite:hmt:pers.pers127
 urn:cts:greekLit:tlg5026.msA.hmt:17.54@ἀμφι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.54@Μενοιτιάδ   Μενοιτιάδῃ[1]	urn:cite:hmt:pers.pers158
-urn:cts:greekLit:tlg5026.msA.hmt:17.54@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.54@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.54@οὗτος[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.54@ὥσπερ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.54@τεῖχος[1]	urn:cite:hmt:tokentypes.lexical
@@ -2260,7 +2260,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.56@ᾧ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.56@ρά[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.56@τε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.56@νήπι'[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.56@άγοντι:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.56@άγοντι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.56@ᾧ[2]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.56@ἐπι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.56@μὲν[1]	urn:cite:hmt:tokentypes.lexical
@@ -2281,7 +2281,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.56@Αἴαντος[1]	urn:cite:hmt:pers.pers
 urn:cts:greekLit:tlg5026.msA.hmt:17.56@τὸν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.56@ἄλκιμον[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.56@⁑[1]	urn:cite:hmt:tokentypes.punctuation
-urn:cts:greekLit:tlg5026.msA.hmt:17.57@ἐπισκύνιον:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.57@ἐπισκύνιον[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.57@τὸ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.57@ἐπάνω[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.57@τῶν[1]	urn:cite:hmt:tokentypes.lexical
@@ -2314,7 +2314,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.57@⁑[1]	urn:cite:hmt:tokentypes.punctuatio
 urn:cts:greekLit:tlg5026.msA.hmt:17.58@πᾶν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.58@δέ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.58@τ'[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.58@ἐπισκύνιον:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.58@ἐπισκύνιον[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.58@ἱστόρηται[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.58@τοῦτο[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.58@ἐπι[1]	urn:cite:hmt:tokentypes.lexical
@@ -2352,7 +2352,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.58@τὸ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.58@τέκνον[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.59@ἕλκεται[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.59@ὄσσε[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.59@καλύπψων:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.59@καλύπψων[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.59@ἕλκεται[2]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.59@ἔφη[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.59@ἀντι[1]	urn:cite:hmt:tokentypes.lexical
@@ -2373,7 +2373,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.59@ἅπασαι[1]	urn:cite:hmt:tokentypes.
 urn:cts:greekLit:tlg5026.msA.hmt:17.59@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msA.hmt:17.60@Ἕκτορ[1]	urn:cite:hmt:pers.pers172
 urn:cts:greekLit:tlg5026.msA.hmt:17.60@εἶδος[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.60@ἄριστε:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.60@ἄριστε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.60@μάλιστα[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.60@τὸν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.60@Ἕκτορα[1]	urn:cite:hmt:pers.pers172
@@ -2390,7 +2390,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.60@⁑[1]	urn:cite:hmt:tokentypes.punctuatio
 urn:cts:greekLit:tlg5026.msA.hmt:17.61@ἡς’[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.61@αὐτὸς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.61@κλέος[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.61@ἐσθλὸν:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.61@ἐσθλὸν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.61@παράγωγον[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.61@φύγάδα[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.61@ὄντα[1]	urn:cite:hmt:tokentypes.lexical
@@ -2425,7 +2425,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.62@χείρονα[1]	urn:cite:hmt:tokentypes
 urn:cts:greekLit:tlg5026.msA.hmt:17.62@φῶτα[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.62@σαώσηας[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.62@μεθ'[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.62@ὅμιλον:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.62@ὅμιλον[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.62@δια[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.62@τοῦ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.62@μεθ[1]	urn:cite:hmt:tokentypes.lexical
@@ -2526,7 +2526,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.65@εἴ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.65@τις[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.65@ἐμοὶ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.65@Λυκίων[1]	urn:cite:hmt:peoples.place75
-urn:cts:greekLit:tlg5026.msA.hmt:17.65@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.65@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.65@ἤτοι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.65@ὑποστικτέον[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.65@ἀνδρῶν[1]	urn:cite:hmt:tokentypes.lexical
@@ -2611,7 +2611,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.67@‡[1]	urn:cite:hmt:tokentypes.punctuatio
 urn:cts:greekLit:tlg5026.msA.hmt:17.67@λύσειαν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.67@καί[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.67@κ'[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.67@αὐτὸν:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.67@αὐτὸν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.67@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.67@οὐ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.67@κ’[1]	urn:cite:hmt:tokentypes.lexical
@@ -2732,7 +2732,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.70@⁑[1]	urn:cite:hmt:tokentypes.punctuatio
 urn:cts:greekLit:tlg5026.msA.hmt:17.71@τῶν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.71@ὅσσοι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.71@Λυκίην[1]	urn:cite:hmt:place.place75
-urn:cts:greekLit:tlg5026.msA.hmt:17.71@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.71@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.71@μεμείωκε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.71@τὴν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.71@ἔμφασιν[1]	urn:cite:hmt:tokentypes.lexical
@@ -2748,7 +2748,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.71@⁑[1]	urn:cite:hmt:tokentypes.punctuatio
 urn:cts:greekLit:tlg5026.msA.hmt:17.72@νῦν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.72@δε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.72@σεῦ[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.72@ὡνοσάμην:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.72@ὡνοσάμην[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.72@παρα[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.72@Ζηνοδότῳ[1]	urn:cite:hmt:pers.pers15
 urn:cts:greekLit:tlg5026.msA.hmt:17.72@,[1]	urn:cite:hmt:tokentypes.punctuation
@@ -2774,7 +2774,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.72@⁑[1]	urn:cite:hmt:tokentypes.punctuatio
 urn:cts:greekLit:tlg5026.msA.hmt:17.73@ὅς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.73@τε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.73@με[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.73@φῂς:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.73@φῂς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.73@ἀξιοῖ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.73@ὁ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.73@Ἀσκαλωνίτης[1]	urn:cite:hmt:pers.pers485
@@ -2869,7 +2869,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.74@⁑[1]	urn:cite:hmt:tokentypes.punctuatio
 urn:cts:greekLit:tlg5026.msA.hmt:17.75@καλὰ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.75@τὰ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.75@Πατρόκλοιο[1]	urn:cite:hmt:pers.pers158
-urn:cts:greekLit:tlg5026.msA.hmt:17.75@βίην:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.75@βίην[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.75@προσεδόκησεν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.75@ἄν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.75@τις[1]	urn:cite:hmt:tokentypes.lexical
@@ -2906,7 +2906,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.75@⁑[1]	urn:cite:hmt:tokentypes.punctuatio
 urn:cts:greekLit:tlg5026.msA.hmt:17.76@καλὰ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.76@τὰ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.76@Πατρόκλοιο[1]	urn:cite:hmt:pers.pers158
-urn:cts:greekLit:tlg5026.msA.hmt:17.76@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.76@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.76@οὗτος[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.76@ἀλαξονεύεται[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.76@μηδὲν[1]	urn:cite:hmt:tokentypes.lexical
@@ -2955,7 +2955,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.77@πολέμοιο[1]	urn:cite:hmt:tokentyp
 urn:cts:greekLit:tlg5026.msA.hmt:17.77@θέων[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.77@δ'[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.77@εκίχανεν[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.77@ἑταίρους:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.77@ἑταίρους[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.77@τὸ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.77@ἑξῆς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.77@ἐστι[1]	urn:cite:hmt:tokentypes.lexical
@@ -3033,7 +3033,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.80@προτὶ[1]	urn:cite:hmt:tokentypes.le
 urn:cts:greekLit:tlg5026.msA.hmt:17.80@ἄστυ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.80@φέρον[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.80@κλυτὰ[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.80@τεύχεα:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.80@τεύχεα[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.80@θάλωκεν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.80@οὗτος[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.80@τῷ[1]	urn:cite:hmt:tokentypes.lexical
@@ -3068,7 +3068,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.80@⁑[1]	urn:cite:hmt:tokentypes.punctuatio
 urn:cts:greekLit:tlg5026.msA.hmt:17.81@γηρὰς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.81@ἀλλ'[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.81@οὔχ[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.81@ὑιὸς:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.81@ὑιὸς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.81@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.81@οὕτως[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.81@εἰώθασι[1]	urn:cite:hmt:tokentypes.lexical
@@ -3130,7 +3130,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.83@ἀ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.83@δείλ'[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.83@οὐδέ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.83@τι[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.83@τοι:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.83@τοι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.83@ζητεῖ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.83@ὁ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.83@Ηρωδιανὸς[1]	urn:cite:hmt:pers.pers493
@@ -3265,7 +3265,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.84@ἀ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.84@δεῖλ’[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.84@οὐδέ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.84@τι[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.84@τοι:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.84@τοι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.84@ἡ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.84@διπλῆ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.84@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
@@ -3363,7 +3363,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.87@τεύχεα[1]	urn:cite:hmt:tokentypes.l
 urn:cts:greekLit:tlg5026.msA.hmt:17.87@δ'[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.87@οὐ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.87@κατα[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.87@κόσμον:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.87@κόσμον[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.87@ἰδοὺ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.87@καὶ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.87@αὐτὸς[1]	urn:cite:hmt:tokentypes.lexical
@@ -3380,7 +3380,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.87@δὲ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.87@ἐπιτιμαῦ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.87@ὁ[2]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.87@Ἀρίσταρχος[1]	urn:cite:hmt:pers.pers16
-urn:cts:greekLit:tlg5026.msA.hmt:17.87@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.87@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.87@ἄλλως[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.87@τεύχεα[2]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.87@δ'[2]	urn:cite:hmt:tokentypes.lexical
@@ -3430,7 +3430,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.88@Ἕκτορα[2]	urn:cite:hmt:pers.pers17
 urn:cts:greekLit:tlg5026.msA.hmt:17.88@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msA.hmt:17.89@δέξεται[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.89@Ἀνδρομάχη[1]	urn:cite:hmt:pers.pers171
-urn:cts:greekLit:tlg5026.msA.hmt:17.89@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.89@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.89@καὶ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.89@τοῦτο[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.89@ἠθικον[1]	urn:cite:hmt:tokentypes.lexical
@@ -3451,7 +3451,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.89@Ἕκτωρ[1]	urn:cite:hmt:pers.pers172
 urn:cts:greekLit:tlg5026.msA.hmt:17.89@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msA.hmt:17.90@δεινὸς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.90@Ἐνυαλιος[1]	urn:cite:hmt:pers.pers83
-urn:cts:greekLit:tlg5026.msA.hmt:17.90@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.90@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.90@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.90@ἐπιθετικῶς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.90@ἀπο[1]	urn:cite:hmt:tokentypes.lexical
@@ -3490,7 +3490,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.91@άλλετο[1]	urn:cite:hmt:tokentypes.l
 urn:cts:greekLit:tlg5026.msA.hmt:17.91@δέ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.91@σφισι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.91@πᾶσι[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.91@τεύχεα:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.91@τεύχεα[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.91@αἱ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.91@κοιναὶ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.91@ἐκδόσεις[1]	urn:cite:hmt:tokentypes.lexical
@@ -3525,7 +3525,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.91@λαμπόμενος[1]	urn:cite:hmt:toke
 urn:cts:greekLit:tlg5026.msA.hmt:17.91@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msA.hmt:17.92@ὤτρυνεν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.92@δὲ[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.92@ἕκαστον:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.92@ἕκαστον[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.92@ἀκόλουθον[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.92@ἤν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.92@ὡπλισμένον[1]	urn:cite:hmt:tokentypes.lexical
@@ -3555,7 +3555,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.92@⁑[1]	urn:cite:hmt:tokentypes.punctuatio
 urn:cts:greekLit:tlg5026.msA.hmt:17.93@φόρκυν[1]	urn:cite:hmt:pers.pers768
 urn:cts:greekLit:tlg5026.msA.hmt:17.93@τε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.93@Χρομίον[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.93@τε:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.93@τε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.93@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.93@τὸν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.93@ἐν[1]	urn:cite:hmt:tokentypes.lexical
@@ -3594,7 +3594,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.93@ὄνομα[1]	urn:cite:hmt:tokentypes.le
 urn:cts:greekLit:tlg5026.msA.hmt:17.93@πρῶτον[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.93@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msA.hmt:17.94@Φόρκυν[1]	urn:cite:hmt:pers.pers768
-urn:cts:greekLit:tlg5026.msA.hmt:17.94@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.94@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.94@ὡς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.94@βότρυν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.94@ἀπ[1]	urn:cite:hmt:tokentypes.lexical
@@ -3650,7 +3650,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.95@οὐ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.95@γὰρ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.95@ἐγὼ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.95@πληθὺν[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.95@διζήμενος:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.95@διζήμενος[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.95@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.95@ἀπο[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.95@τοῦ[1]	urn:cite:hmt:tokentypes.lexical
@@ -3675,7 +3675,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.96@ῥύοισθε[1]	urn:cite:hmt:tokentype
 urn:cts:greekLit:tlg5026.msA.hmt:17.96@φιλοπτολέμων[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.96@ὑπ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.96@Αχαιῶν[1]	urn:cite:hmt:peoples.place96
-urn:cts:greekLit:tlg5026.msA.hmt:17.96@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.96@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.96@ἥτοι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.96@ὑποστικτέον[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.96@Ἀχαιῶν[1]	urn:cite:hmt:peoples.place96
@@ -3693,7 +3693,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.96@⁑[1]	urn:cite:hmt:tokentypes.punctuatio
 urn:cts:greekLit:tlg5026.msA.hmt:17.97@τὰ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.97@φρονέων[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.97@δώροισι[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.97@κατατρύχω:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.97@κατατρύχω[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.97@καταπονῶ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.97@ὑμῖν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.97@δηλονότι[1]	urn:cite:hmt:tokentypes.lexical
@@ -3832,7 +3832,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.102@καὶ[1]	urn:cite:hmt:tokentypes.lexic
 urn:cts:greekLit:tlg5026.msA.hmt:17.102@τότ'[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.102@ἂρ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.102@Αἴας[1]	urn:cite:hmt:pers.pers127
-urn:cts:greekLit:tlg5026.msA.hmt:17.102@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.102@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.102@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.102@ἡ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.102@πρός[1]	urn:cite:hmt:tokentypes.lexical
@@ -3922,7 +3922,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.105@δαναῶν[1]	urn:cite:hmt:pers.pers6
 urn:cts:greekLit:tlg5026.msA.hmt:17.105@κάλει[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.105@ἥ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.105@τις[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.105@ἀκούση:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.105@ἀκούση[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.105@δύναται[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.105@μὲν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.105@λέγειν[1]	urn:cite:hmt:tokentypes.lexical
@@ -4116,7 +4116,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.110@ὑπὸ[1]	urn:cite:hmt:tokentypes.lexi
 urn:cts:greekLit:tlg5026.msA.hmt:17.110@Διός[1]	urn:cite:hmt:pers.pers8
 urn:cts:greekLit:tlg5026.msA.hmt:17.110@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msA.hmt:17.111@ἠϊόνες[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.111@βοόωσιν:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.111@βοόωσιν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.111@Σόλωνα[1]	urn:cite:hmt:pers.pers342
 urn:cts:greekLit:tlg5026.msA.hmt:17.111@φασὶ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.111@τὸν[1]	urn:cite:hmt:tokentypes.lexical
@@ -4196,7 +4196,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.112@⁑[1]	urn:cite:hmt:tokentypes.punctuati
 urn:cts:greekLit:tlg5026.msA.hmt:17.113@μίσησεν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.113@δ'[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.113@άρα[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.113@μιν:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.113@μιν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.113@ἰδίως[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.113@κέχρηται[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.113@τῇ[1]	urn:cite:hmt:tokentypes.lexical
@@ -4219,7 +4219,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.113@Πάτροκλον[1]	urn:cite:hmt:pers.
 urn:cts:greekLit:tlg5026.msA.hmt:17.113@.[2]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msA.hmt:17.114@Ἕκτορα[1]	urn:cite:hmt:pers.pers172
 urn:cts:greekLit:tlg5026.msA.hmt:17.114@δ'[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.114@ἐγγύθεν:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.114@ἐγγύθεν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.114@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.114@Ζηνοδοτ   Ζηνόδοτος[1]	urn:cite:hmt:pers.pers15
 urn:cts:greekLit:tlg5026.msA.hmt:17.114@γράφει[1]	urn:cite:hmt:tokentypes.lexical
@@ -4240,7 +4240,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.114@ἐξαίφνης[1]	urn:cite:hmt:tokent
 urn:cts:greekLit:tlg5026.msA.hmt:17.114@πάρεστι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.114@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msA.hmt:17.115@μαλθακὸς[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.115@αἰχμητής:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.115@αἰχμητής[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.115@τὸ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.115@σημεῖον[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.115@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
@@ -4438,7 +4438,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.120@‡[1]	urn:cite:hmt:tokentypes.punctuati
 urn:cts:greekLit:tlg5026.msA.hmt:17.121@ἐν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.121@καυλῷ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.121@δ'[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.121@εάγη:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.121@εάγη[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.121@τὸ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.121@τῆς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.121@ἐπιδορατίδος[1]	urn:cite:hmt:tokentypes.lexical
@@ -4873,7 +4873,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.124@εἰ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.124@μη[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.124@Κοίρανος[1]	urn:cite:hmt:pers.pers1070
 urn:cts:greekLit:tlg5026.msA.hmt:17.124@ὦκα[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.124@ποδώκεας:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.124@ποδώκεας[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.124@ἐκδεκτεον[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.124@τὸν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.124@λόγον[1]	urn:cite:hmt:tokentypes.lexical
@@ -4930,7 +4930,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.124@⁑[1]	urn:cite:hmt:tokentypes.punctuati
 urn:cts:greekLit:tlg5026.msA.hmt:17.125@τὸν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.125@βάλ'[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.125@ὑπὸ[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.125@γναθμοῖο:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.125@γναθμοῖο[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.125@κατα[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.125@τὸ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.125@εἰκὸς[1]	urn:cite:hmt:tokentypes.lexical
@@ -4971,7 +4971,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.125@ἵππους[2]	urn:cite:hmt:tokentypes
 urn:cts:greekLit:tlg5026.msA.hmt:17.125@βεβλῆσθαι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.125@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msA.hmt:17.126@μάστιε[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.126@νῦν:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.126@νῦν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.126@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.126@τοῦτο[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.126@φιλικὸν[1]	urn:cite:hmt:tokentypes.lexical
@@ -5002,7 +5002,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.127@δὴ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.127@Τρώεσσι[1]	urn:cite:hmt:peoples.place6
 urn:cts:greekLit:tlg5026.msA.hmt:17.127@δίδου[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.127@ἑτεραλκέα[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.127@νικην:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.127@νικην[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.127@οὐ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.127@γὰρ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.127@ἄλλως[1]	urn:cite:hmt:tokentypes.lexical
@@ -5042,7 +5042,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.128@⁑[1]	urn:cite:hmt:tokentypes.punctuati
 urn:cts:greekLit:tlg5026.msA.hmt:17.129@ἀλλ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.129@οὔ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.129@πῃ[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.129@δύναμαι:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.129@δύναμαι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.129@πῶς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.129@παρείληπται[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.129@τὸ[1]	urn:cite:hmt:tokentypes.lexical
@@ -5150,7 +5150,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.131@⁑[1]	urn:cite:hmt:tokentypes.punctuati
 urn:cts:greekLit:tlg5026.msA.hmt:17.132@τὸν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.132@δε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.132@πατὴρ[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.132@ὀλοφύρατο:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.132@ὀλοφύρατο[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.132@περιπαθῶς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.132@εἰσάγει[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.132@τὸν[2]	urn:cite:hmt:tokentypes.lexical
@@ -5172,7 +5172,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.132@⁑[1]	urn:cite:hmt:tokentypes.punctuati
 urn:cts:greekLit:tlg5026.msA.hmt:17.133@αὐτίκα[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.133@δ'[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.133@ἠέρα[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.133@μεν:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.133@μεν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.133@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.133@σαφῶς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.133@τὴν[1]	urn:cite:hmt:tokentypes.lexical
@@ -5196,7 +5196,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.134@καὶ[1]	urn:cite:hmt:tokentypes.lexic
 urn:cts:greekLit:tlg5026.msA.hmt:17.134@τότ'[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.134@ἄρ'[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.134@Αίας[1]	urn:cite:hmt:pers.pers127
-urn:cts:greekLit:tlg5026.msA.hmt:17.134@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.134@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.134@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.134@οὐκ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.134@εἰπε[1]	urn:cite:hmt:tokentypes.lexical
@@ -5462,7 +5462,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.144@αλλ[1]	urn:cite:hmt:tokentypes.lexica
 urn:cts:greekLit:tlg5026.msA.hmt:17.144@ὅ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.144@γε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.144@τοῖσιν[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.144@μὲν:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.144@μὲν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.144@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.144@ἀπέστρεφεν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.144@ἐκ[1]	urn:cite:hmt:tokentypes.lexical
@@ -5483,7 +5483,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:17.144@παρώτρυνεν[1]	urn:cite:hmt:tok
 urn:cts:greekLit:tlg5026.msA.hmt:17.144@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msA.hmt:17.145@Τρώων[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.145@ἐξ[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msA.hmt:17.145@ενοπῆς:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msA.hmt:17.145@ενοπῆς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.145@ὥσπερ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.145@βοὴν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msA.hmt:17.145@λέγει[1]	urn:cite:hmt:tokentypes.lexical
@@ -17594,7 +17594,7 @@ urn:cts:greekLit:tlg5026.msAil.hmt:17.3@οἰκτρά[1]	urn:cite:hmt:tokentypes
 urn:cts:greekLit:tlg5026.msAil.hmt:17.3@ὀδυρτικη[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.4@ὁ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.4@Εὐφορβος[1]	urn:cite:hmt:pers.pers464
-urn:cts:greekLit:tlg5026.msAil.hmt:17.4@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAil.hmt:17.4@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.5@προσηνῆ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.6@ἐπιρρώνυνται[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.6@δεινὸν[1]	urn:cite:hmt:tokentypes.lexical
@@ -17606,7 +17606,7 @@ urn:cts:greekLit:tlg5026.msAil.hmt:17.8@ἀδελφὸς[1]	urn:cite:hmt:tokenty
 urn:cts:greekLit:tlg5026.msAil.hmt:17.8@Εὐφόρβου[1]	urn:cite:hmt:pers.pers464
 urn:cts:greekLit:tlg5026.msAil.hmt:17.9@ότε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.9@με[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAil.hmt:17.9@ὕβρισεν:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAil.hmt:17.9@ὕβρισεν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.10@ἀνεφύσησεν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.11@τοῦτο[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.11@ἢν[1]	urn:cite:hmt:tokentypes.lexical
@@ -17625,23 +17625,23 @@ urn:cts:greekLit:tlg5026.msAil.hmt:17.15@τὸ[1]	urn:cite:hmt:tokentypes.lexica
 urn:cts:greekLit:tlg5026.msAil.hmt:17.15@ὑπὸ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.15@τὰς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.15@ὀφρῦς[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAil.hmt:17.15@δέρμα:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAil.hmt:17.15@δέρμα[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.16@παραστρόφοις[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.16@τοῖς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.16@ὀφθαλμοῖς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.16@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msAil.hmt:17.17@φανερος[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAil.hmt:17.17@γενήσεται:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAil.hmt:17.17@γενήσεται[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.18@ἀντὶ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.18@τοῦ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.18@κομισθείη[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.19@ἔδοξα[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.19@·[1]	urn:cite:hmt:tokentypes.punctuation
-urn:cts:greekLit:tlg5026.msAil.hmt:17.19@ενόμισα:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAil.hmt:17.19@ενόμισα[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.20@εἰσι[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAil.hmt:17.21@ἀμοιβήν:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAil.hmt:17.21@ἀμοιβήν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.22@πολεμικὴ[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAil.hmt:17.22@προθυμία:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAil.hmt:17.22@προθυμία[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.23@εφαίνετο[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.23@κατὰ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAil.hmt:17.23@τὸ[1]	urn:cite:hmt:tokentypes.lexical
@@ -17757,7 +17757,7 @@ urn:cts:greekLit:tlg5026.msAim.hmt:17.1@Ζηνοδ   Ζηνόδοτος[1]	urn:c
 urn:cts:greekLit:tlg5026.msAim.hmt:17.1@πρόσθε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.1@δε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.1@ου[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAim.hmt:17.1@κακῶς:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAim.hmt:17.1@κακῶς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.2@έδει[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.2@πρῶτος[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.2@ειπεῖν[1]	urn:cite:hmt:tokentypes.lexical
@@ -17820,7 +17820,7 @@ urn:cts:greekLit:tlg5026.msAim.hmt:17.9@ῶ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.9@μόνος[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.9@τίς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.9@πολεῖται[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAim.hmt:17.9@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAim.hmt:17.9@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.10@καὶ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.10@δήϊοι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.10@οἱ[1]	urn:cite:hmt:tokentypes.lexical
@@ -17843,7 +17843,7 @@ urn:cts:greekLit:tlg5026.msAim.hmt:17.12@περιστήῳσι[1]	urn:cite:hmt:t
 urn:cts:greekLit:tlg5026.msAim.hmt:17.13@ἀντὶ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.13@παραχωρήσαντα[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.13@ὑποχωρήσαντα[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAim.hmt:17.13@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAim.hmt:17.13@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.14@Ζηνοδ   Ζηνόδοτος[1]	urn:cite:hmt:pers.pers15
 urn:cts:greekLit:tlg5026.msAim.hmt:17.14@ιόντε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.14@δυϊκῶς[1]	urn:cite:hmt:tokentypes.lexical
@@ -17889,7 +17889,7 @@ urn:cts:greekLit:tlg5026.msAim.hmt:17.21@ὦ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.21@πέπον[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.21@,[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msAim.hmt:17.21@ου[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAim.hmt:17.21@κακῶς:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAim.hmt:17.21@κακῶς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.22@οὕτως[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.22@ἐπι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.22@ενεστῶτος[1]	urn:cite:hmt:tokentypes.lexical
@@ -17978,7 +17978,7 @@ urn:cts:greekLit:tlg5026.msAim.hmt:17.35@·[1]	urn:cite:hmt:tokentypes.punctuati
 urn:cts:greekLit:tlg5026.msAim.hmt:17.35@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msAim.hmt:17.36@Ζηνόδοτ   Ζηνόδοτος[1]	urn:cite:hmt:pers.pers15
 urn:cts:greekLit:tlg5026.msAim.hmt:17.36@ἀρθέντες[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAim.hmt:17.36@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAim.hmt:17.36@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.36@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msAim.hmt:17.37@Ἀριστ   Ἀρίσταρχος[1]	urn:cite:hmt:pers.pers16
 urn:cts:greekLit:tlg5026.msAim.hmt:17.37@διὰ[1]	urn:cite:hmt:tokentypes.lexical
@@ -17989,7 +17989,7 @@ urn:cts:greekLit:tlg5026.msAim.hmt:17.38@ἐν[1]	urn:cite:hmt:tokentypes.lexica
 urn:cts:greekLit:tlg5026.msAim.hmt:17.38@ἄλλῳ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.38@ῶρσεν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.38@Ἀχαιους[1]	urn:cite:hmt:peoples.place
-urn:cts:greekLit:tlg5026.msAim.hmt:17.38@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAim.hmt:17.38@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.38@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msAim.hmt:17.39@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.39@ἀντὶ[1]	urn:cite:hmt:tokentypes.lexical
@@ -18016,11 +18016,11 @@ urn:cts:greekLit:tlg5026.msAim.hmt:17.42@⁑[1]	urn:cite:hmt:tokentypes.punctuat
 urn:cts:greekLit:tlg5026.msAim.hmt:17.43@ἐν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.43@ἄλλῳ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.43@ἀμύνοι[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAim.hmt:17.43@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAim.hmt:17.43@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.44@διχῶς[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.44@καὶ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.44@ἀφείη[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAim.hmt:17.44@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAim.hmt:17.44@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.45@οὕτως[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.45@Ἀρισταρχ   Ἀρίσταρχος[1]	urn:cite:hmt:pers.pers16
 urn:cts:greekLit:tlg5026.msAim.hmt:17.45@ἄλλοι[1]	urn:cite:hmt:tokentypes.lexical
@@ -18040,13 +18040,13 @@ urn:cts:greekLit:tlg5026.msAim.hmt:17.47@εκ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.47@παρεπομένου[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.47@δὲ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.47@το[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAim.hmt:17.47@ζῆν:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAim.hmt:17.47@ζῆν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.47@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msAim.hmt:17.48@ἐν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.48@ἄλλῳ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.48@τετιημένος[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.48@ῆτορ[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAim.hmt:17.48@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAim.hmt:17.48@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.48@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msAim.hmt:17.49@οὔτως[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.49@Ἀρισταρχ   Ἀρίσταρχος[1]	urn:cite:hmt:pers.pers16
@@ -18054,9 +18054,9 @@ urn:cts:greekLit:tlg5026.msAim.hmt:17.49@ΐδοιτο[1]	urn:cite:hmt:tokentypes
 urn:cts:greekLit:tlg5026.msAim.hmt:17.49@τὰ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.49@όσσε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.49@δηλονότι[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAim.hmt:17.49@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAim.hmt:17.49@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.50@κατεστύγνασεν[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAim.hmt:17.50@ηνιάθη:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAim.hmt:17.50@ηνιάθη[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.50@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msAim.hmt:17.51@τὸ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.51@ἕως[1]	urn:cite:hmt:tokentypes.lexical
@@ -18066,7 +18066,7 @@ urn:cts:greekLit:tlg5026.msAim.hmt:17.51@τέως[1]	urn:cite:hmt:tokentypes.lex
 urn:cts:greekLit:tlg5026.msAim.hmt:17.51@διόπερ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.51@οὐδε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.51@ὑποστιγμὴν[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAim.hmt:17.51@ποιεῖ:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAim.hmt:17.51@ποιεῖ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:17.51@⁑[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msAim.hmt:18.1@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAim.hmt:18.1@λείπει[1]	urn:cite:hmt:tokentypes.lexical
@@ -18684,7 +18684,7 @@ urn:cts:greekLit:tlg5026.msAint.hmt:17.5@,[2]	urn:cite:hmt:tokentypes.punctuatio
 urn:cts:greekLit:tlg5026.msAint.hmt:17.5@καὶ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.5@δόμος[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.5@ἡμιτελης[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAint.hmt:17.5@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAint.hmt:17.5@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.6@ἀρητόν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.6@τὰ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.6@εἰς[1]	urn:cite:hmt:tokentypes.lexical
@@ -18709,7 +18709,7 @@ urn:cts:greekLit:tlg5026.msAint.hmt:17.8@χαλκός[1]	urn:cite:hmt:tokentypes
 urn:cts:greekLit:tlg5026.msAint.hmt:17.8@αλλοι[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.8@δὲ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.8@χαλκόι[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAint.hmt:17.8@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAint.hmt:17.8@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.9@λάπτει[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.9@τῶν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.9@δὲ[1]	urn:cite:hmt:tokentypes.lexical
@@ -18757,7 +18757,7 @@ urn:cts:greekLit:tlg5026.msAint.hmt:17.15@ὁ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.15@Ηρωδιανος[1]	urn:cite:hmt:pers.pers493
 urn:cts:greekLit:tlg5026.msAint.hmt:17.15@εν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.15@τ[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAint.hmt:17.15@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAint.hmt:17.15@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.16@κυνηγοί[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.16@·[1]	urn:cite:hmt:tokentypes.punctuation
 urn:cts:greekLit:tlg5026.msAint.hmt:17.16@ἀπο[1]	urn:cite:hmt:tokentypes.lexical
@@ -18792,7 +18792,7 @@ urn:cts:greekLit:tlg5026.msAint.hmt:17.21@Ἀριστοφ   Ἀριστοφάν�
 urn:cts:greekLit:tlg5026.msAint.hmt:17.21@τότε[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.21@δ'[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.21@αὔτὸς[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAint.hmt:17.21@:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAint.hmt:17.21@[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.22@βραχὺ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.22@αλτέον[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.22@ἐπι[1]	urn:cite:hmt:tokentypes.lexical
@@ -18824,7 +18824,7 @@ urn:cts:greekLit:tlg5026.msAint.hmt:17.26@δεῖ[1]	urn:cite:hmt:tokentypes.lex
 urn:cts:greekLit:tlg5026.msAint.hmt:17.26@ἀναστρέφειν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.26@ἐνταῦθα[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.26@τὴν[1]	urn:cite:hmt:tokentypes.lexical
-urn:cts:greekLit:tlg5026.msAint.hmt:17.26@πρόθεσιν:[1]	urn:cite:hmt:tokentypes.lexical
+urn:cts:greekLit:tlg5026.msAint.hmt:17.26@πρόθεσιν[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.27@ἐκκέκαυται[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.28@καὶ[1]	urn:cite:hmt:tokentypes.lexical
 urn:cts:greekLit:tlg5026.msAint.hmt:17.28@ὅτι[1]	urn:cite:hmt:tokentypes.lexical
