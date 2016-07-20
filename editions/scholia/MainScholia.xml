@@ -427,7 +427,6 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     </choice> δι αὐχένος</q>. θέμεθλα δὲ ἡ θέσις ⁑</p>
                         </div>
                     </div>
-
                     <div n="22" type="scholion">
                         <div type="lemma">
                             <p>νὺξ ἐπι δ' <w>αὐτ<unclear>ὸς</unclear></w></p>
@@ -467,7 +466,6 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 ἐφέρετο. ⁑</p>
                         </div>
                     </div>
-
                     <div n="25" type="scholion">
                         <div type="lemma">
                             <p>‡ αἵματί οι δεύοντο:</p>
@@ -1075,7 +1073,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="56" type="scholion">
                         <div type="lemma">
-                            <p> ρά τε νήπι' άγοντι:</p>
+                            <p> ᾧ ρά τε νήπι' άγοντι:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.134</p>
@@ -1923,7 +1921,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>δήμια πίνουσιν·</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:17.249</p>
                         </div>
                         <div type="comment">
                             <p> προς τὴν ἀποστροφὴν οὐ γὰρ εἶπεν <q>πίνεται</q>· <q>δήμια</q> δὲ τὰ
