@@ -2,6 +2,8 @@
 Reads a tokenization file, and grabs first 4 tokens of a citable unit, strip accents and breathings,
 writes out URN + 4 tokens in UTF-8 KFC.
 
+Tokens file should be divided by tabs.
+
 Usage: groovy firstNtokens.groovy FILE NTOKENS
 
 */
