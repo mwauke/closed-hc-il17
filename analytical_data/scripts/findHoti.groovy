@@ -28,20 +28,22 @@ f.eachLine { l ->
       CtsUrn longUrn = new CtsUrn(cols[0])
       String currRef = longUrn.getUrnWithoutPassage() + longUrn.getRef()
       GreekString gs =  new GreekString(longUrn.getSubref(), true)
-      
+      String candidate = GreekString.stripAccents(gs.toString()).replaceAll(/[\)\(]/,'')
       if (currRef == prevRef) {
 	currCount++;
 	if (currCount < limit) {
 	  //print "#" + longUrn.getSubref()
-	  //check for hoti
-	  if (GreekString.stripAccents(gs.toString()).replaceAll(/[\)\(]/,'') == "oti") {
+	  //check for hoti, shmeion and aqeteitai:
+
+	  if ((candidate == "oti") || (candidate == "shmeion")) {
 	    println currRef
 	  }
 	}
 	
       } else {
 	currCount = 0
-	if (GreekString.stripAccents(gs.toString()).replaceAll(/[\)\(]/,'') == "oti") {
+	if ((candidate == "oti") || (candidate == "shmeion")) {
+	  if ( (candidate == "shmeion")) {
 	  println currRef
 	}
       }
